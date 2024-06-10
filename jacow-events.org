@@ -1,0 +1,2004 @@
+*** 1959 :1959:
+
+
+**** CYCLOTRONS’59 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Sea Island, Georgia, USA
+:EVENTDATE: <1959-02-02>--<1959-02-04>
+:END:
+
+*** 1961 :1961:
+
+
+**** LINAC’61 :LINAC:
+:PROPERTIES:
+:VENUE: Upton, Long Island, New York, USA
+:EVENTDATE: <1961-04-01>--<1961-04-14>
+:END:
+
+*** 1962 :1962:
+
+
+**** LINAC’62 :LINAC:
+:PROPERTIES:
+:VENUE: Upton, Long Island, New York, USA
+:EVENTDATE: <1962-08-20>--<1962-08-24>
+:END:
+
+*** 1963 :1963:
+
+
+**** CYCLOTRONS’63 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Geneva, Switzerland
+:EVENTDATE: <1963-04-23>--<1963-04-26>
+:END:
+
+
+**** LINAC’63 :LINAC:
+:PROPERTIES:
+:VENUE: New Haven, Connecticut, USA
+:EVENTDATE: <1963-10-21>--<1963-10-25>
+:END:
+
+*** 1964 :1964:
+
+
+**** LINAC’64 :LINAC:
+:PROPERTIES:
+:VENUE: Madison, Wisconsin, USA
+:EVENTDATE: <1964-07-20>--<1964-07-24>
+:END:
+
+*** 1965 :1965:
+
+
+**** PAC’65 :PAC:
+:PROPERTIES:
+:VENUE: Washington D.C., USA
+:EVENTDATE: <1965-03-10>--<1965-03-12>
+:END:
+
+*** 1966 :1966:
+
+
+**** CYCLOTRONS’66 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Gatlinburg, Tennessee, USA
+:EVENTDATE: <1966-05-02>--<1966-05-05>
+:END:
+
+
+**** LINAC’66 :LINAC:
+:PROPERTIES:
+:VENUE: Los Alamos, New Mexico, USA
+:EVENTDATE: <1966-10-03>--<1966-10-07>
+:END:
+
+*** 1967 :1967:
+
+
+**** PAC’67 :PAC:
+:PROPERTIES:
+:VENUE: Washington D.C., USA
+:EVENTDATE: <1967-03-01>--<1967-03-03>
+:END:
+
+*** 1968 :1968:
+
+
+**** LINAC’68 :LINAC:
+:PROPERTIES:
+:VENUE: Upton, Long Island, New York, USA
+:EVENTDATE: <1968-05-20>--<1968-05-24>
+:END:
+
+*** 1969 :1969:
+
+
+**** PAC’69 :PAC:
+:PROPERTIES:
+:VENUE: Washington D.C., USA
+:EVENTDATE: <1969-03-05>--<1969-03-07>
+:END:
+
+
+**** CYCLOTRONS’69 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Oxford, United Kingdom
+:EVENTDATE: <1969-09-17>--<1969-09-20>
+:END:
+
+*** 1970 :1970:
+
+
+**** LINAC’70 :LINAC:
+:PROPERTIES:
+:VENUE: Batavia, Illinois, USA
+:EVENTDATE: <1970-09-28>--<1970-10-02>
+:END:
+
+*** 1971 :1971:
+
+
+**** PAC’71 :PAC:
+:PROPERTIES:
+:VENUE: Chicago, IL, USA
+:EVENTDATE: <1971-03-01>--<1971-03-03>
+:END:
+
+*** 1972 :1972:
+
+
+**** CYCLOTRONS’72 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Vancouver, Canada
+:EVENTDATE: <1972-07-18>--<1972-07-21>
+:END:
+
+
+**** LINAC’72 :LINAC:
+:PROPERTIES:
+:VENUE: Los Alamos, New Mexico, USA
+:EVENTDATE: <1972-10-10>--<1972-10-13>
+:END:
+
+*** 1973 :1973:
+
+
+**** PAC’73 :PAC:
+:PROPERTIES:
+:VENUE: San Francisco, CA, USA
+:EVENTDATE: <1973-03-05>--<1973-03-07>
+:END:
+
+*** 1975 :1975:
+
+
+**** PAC’75 :PAC:
+:PROPERTIES:
+:VENUE: Washington D.C., USA
+:EVENTDATE: <1975-03-12>--<1975-03-14>
+:END:
+
+
+**** CYCLOTRONS’75 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Zürich, Switzerland
+:EVENTDATE: <1975-08-19>--<1975-08-22>
+:END:
+
+*** 1976 :1976:
+
+
+**** LINAC’76 :LINAC:
+:PROPERTIES:
+:VENUE: Chalk River, Ontario, Canada
+:EVENTDATE: <1976-09-14>--<1976-09-17>
+:END:
+
+*** 1977 :1977:
+
+
+**** PAC’77 :PAC:
+:PROPERTIES:
+:VENUE: Chicago, IL, USA
+:EVENTDATE: <1977-03-16>--<1977-03-18>
+:END:
+
+*** 1978 :1978:
+
+
+**** CYCLOTRONS’78 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Bloomington, Indiana, USA
+:EVENTDATE: <1978-09-18>--<1978-09-21>
+:END:
+
+*** 1979 :1979:
+
+
+**** PAC’79 :PAC:
+:PROPERTIES:
+:VENUE: San Francisco, CA, USA
+:EVENTDATE: <1979-03-12>--<1979-03-14>
+:END:
+
+
+**** LINAC’79 :LINAC:
+:PROPERTIES:
+:VENUE: Montauk, New York, USA
+:EVENTDATE: <1979-09-10>--<1979-09-14>
+:END:
+
+*** 1980 :1980:
+
+
+**** SRF’80 :SRF:
+:PROPERTIES:
+:VENUE: Karlsruhe, Germany
+:EVENTDATE: <1980-07-02>--<1980-07-04>
+:END:
+
+*** 1981 :1981:
+
+
+**** PAC’81 :PAC:
+:PROPERTIES:
+:VENUE: Washington D.C., USA
+:EVENTDATE: <1981-03-11>--<1981-03-13>
+:END:
+
+
+**** CYCLOTRONS’81 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Caen, France
+:EVENTDATE: <1981-09-07>--<1981-09-10>
+:END:
+
+
+**** LINAC’81 :LINAC:
+:PROPERTIES:
+:VENUE: Santa Fe, New Mexico, USA
+:EVENTDATE: <1981-10-19>--<1981-10-23>
+:END:
+
+*** 1983 :1983:
+
+
+**** PAC’83 :PAC:
+:PROPERTIES:
+:VENUE: Santa Fe, New Mexico, USA
+:EVENTDATE: <1983-03-21>--<1983-03-23>
+:END:
+
+*** 1984 :1984:
+
+
+**** CYCLOTRONS’84 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: East Lansing, Michigan, USA
+:EVENTDATE: <1984-04-30>--<1984-05-03>
+:END:
+
+
+**** LINAC’84 :LINAC:
+:PROPERTIES:
+:VENUE: Seeheim, Germany
+:EVENTDATE: <1984-05-07>--<1984-05-11>
+:END:
+
+
+**** SRF’84 :SRF:
+:PROPERTIES:
+:VENUE: Geneva, Switzerland
+:EVENTDATE: <1984-07-23>--<1984-07-27>
+:END:
+
+*** 1985 :1985:
+
+
+**** PAC’85 :PAC:
+:PROPERTIES:
+:VENUE: Vancouver, BC, Canada
+:EVENTDATE: <1985-03-13>--<1985-03-16>
+:END:
+
+*** 1986 :1986:
+
+
+**** LINAC’86 :LINAC:
+:PROPERTIES:
+:VENUE: Stanford, California, USA
+:EVENTDATE: <1986-06-02>--<1986-06-06>
+:END:
+
+
+**** CYCLOTRONS’86 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Tokyo, Japan
+:EVENTDATE: <1986-10-13>--<1986-10-17>
+:END:
+
+*** 1987 :1987:
+
+
+**** PAC’87 :PAC:
+:PROPERTIES:
+:VENUE: Washington D.C., USA
+:EVENTDATE: <1987-03-16>--<1987-03-19>
+:END:
+
+
+**** SRF’87 :SRF:
+:PROPERTIES:
+:VENUE: Argonne National Laboratory, Illinois, USA
+:EVENTDATE: <1987-09-14>--<1987-09-18>
+:END:
+
+*** 1988 :1988:
+
+
+**** EPAC’88 :EPAC:
+:PROPERTIES:
+:VENUE: Rome, Italy
+:EVENTDATE: <1988-06-07>--<1988-06-11>
+:END:
+
+
+**** LINAC’88 :LINAC:
+:PROPERTIES:
+:VENUE: Newport News, Virginia, USA
+:EVENTDATE: <1988-10-03>--<1988-10-07>
+:END:
+
+*** 1989 :1989:
+
+
+**** PAC’89 :PAC:
+:PROPERTIES:
+:VENUE: Chicago, IL, USA
+:EVENTDATE: <1989-03-20>--<1989-03-23>
+:END:
+
+
+**** CYCLOTRONS’89 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Berlin, Germany
+:EVENTDATE: <1989-05-08>--<1989-05-12>
+:END:
+
+
+**** SRF’89 :SRF:
+:PROPERTIES:
+:VENUE: KEK, Tsukuba, Japan
+:EVENTDATE: <1989-08-14>--<1989-08-18>
+:END:
+
+*** 1990 :1990:
+
+
+**** EPAC’90 :EPAC:
+:PROPERTIES:
+:VENUE: Nice, France
+:EVENTDATE: <1990-06-12>--<1990-06-16>
+:END:
+
+
+**** LINAC’90 :LINAC:
+:PROPERTIES:
+:VENUE: Albuquerque, New Mexico, USA
+:EVENTDATE: <1990-09-10>--<1990-09-14>
+:END:
+
+*** 1991 :1991:
+
+
+**** PAC’91 :PAC:
+:PROPERTIES:
+:VENUE: San Francisco, CA, USA
+:EVENTDATE: <1991-05-06>--<1991-05-09>
+:END:
+
+
+**** SRF’91 :SRF:
+:PROPERTIES:
+:VENUE: DESY, Hamburg, Germany
+:EVENTDATE: <1991-08-19>--<1991-08-23>
+:END:
+
+
+**** ICALEPCS’91 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Tsukuba, Japan
+:EVENTDATE: <1991-11-11>--<1991-11-15>
+:END:
+
+*** 1992 :1992:
+
+
+**** EPAC’92 :EPAC:
+:PROPERTIES:
+:VENUE: Berlin, Germany
+:EVENTDATE: <1992-03-24>--<1992-03-28>
+:END:
+
+
+**** CYCLOTRONS’92 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Vancouver, BC, Canada
+:EVENTDATE: <1992-07-06>--<1992-07-10>
+:END:
+
+
+**** LINAC’92 :LINAC:
+:PROPERTIES:
+:VENUE: Ottawa, Ontario, Canada
+:EVENTDATE: <1992-08-24>--<1992-08-28>
+:END:
+
+*** 1993 :1993:
+
+
+**** PAC’93 :PAC:
+:PROPERTIES:
+:VENUE: Washington D.C., USA
+:EVENTDATE: <1993-05-17>--<1993-05-20>
+:END:
+
+
+**** SRF’93 :SRF:
+:PROPERTIES:
+:VENUE: CEBAF, Newport News, Virginia, USA
+:EVENTDATE: <1993-10-04>--<1993-10-08>
+:END:
+
+*** 1994 :1994:
+
+
+**** EPAC’94 :EPAC:
+:PROPERTIES:
+:VENUE: London, England
+:EVENTDATE: <1994-06-27>--<1994-07-01>
+:END:
+
+
+**** LINAC’94 :LINAC:
+:PROPERTIES:
+:VENUE: Tsukuba, Japan
+:EVENTDATE: <1994-08-21>--<1994-08-26>
+:END:
+
+*** 1995 :1995:
+
+
+**** PAC’95 :PAC:
+:PROPERTIES:
+:VENUE: Dallas, Texas, USA
+:EVENTDATE: <1995-05-01>--<1995-05-05>
+:END:
+
+
+**** CYCLOTRONS’95 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Cape Town, South Africa
+:EVENTDATE: <1995-10-08>--<1995-10-13>
+:END:
+
+
+**** SRF’95 :SRF:
+:PROPERTIES:
+:VENUE: Gif-sur-Yvette, France
+:EVENTDATE: <1995-10-17>--<1995-10-20>
+:END:
+
+*** 1996 :1996:
+
+
+**** EPAC’96 :EPAC:
+:PROPERTIES:
+:VENUE: Sitges, Spain
+:EVENTDATE: <1996-06-10>--<1996-06-14>
+:END:
+
+
+**** LINAC’96 :LINAC:
+:PROPERTIES:
+:VENUE: Geneva, Switzerland
+:EVENTDATE: <1996-08-26>--<1996-08-30>
+:END:
+
+*** 1997 :1997:
+
+
+**** PAC’97 :PAC:
+:PROPERTIES:
+:VENUE: Vancouver, B.C., Canada
+:EVENTDATE: <1997-05-12>--<1997-05-16>
+:END:
+
+
+**** SRF’97 :SRF:
+:PROPERTIES:
+:VENUE: Abano Terme (Padova), Italy
+:EVENTDATE: <1997-10-06>--<1997-10-10>
+:END:
+
+*** 1998 :1998:
+
+
+**** APAC’98 :APAC:
+:PROPERTIES:
+:VENUE: Tsukuba, Japan
+:EVENTDATE: <1998-03-23>--<1998-03-27>
+:END:
+
+
+**** CYCLOTRONS’98 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Caen, Franc
+:EVENTDATE: <1998-06-14>--<1998-06-19>
+:END:
+
+
+**** EPAC’98 :EPAC:
+:PROPERTIES:
+:VENUE: Stockholm, Sweden
+:EVENTDATE: <1998-06-22>--<1998-06-26>
+:END:
+
+
+**** LINAC’98 :LINAC:
+:PROPERTIES:
+:VENUE: Chicago, Illinois, USA
+:EVENTDATE: <1998-08-23>--<1998-08-28>
+:END:
+
+*** 1999 :1999:
+
+
+**** PAC’99 :PAC:
+:PROPERTIES:
+:VENUE: New York City, New York, USA
+:EVENTDATE: <1999-03-29>--<1999-04-02>
+:END:
+
+
+**** DIPAC’99 :DIPAC:
+:PROPERTIES:
+:VENUE: Chester, UK
+:EVENTDATE: <1999-05-16>--<1999-05-18>
+:END:
+
+
+**** ICALEPCS’99 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Trieste, Italy
+:EVENTDATE: <1999-10-04>--<1999-10-08>
+:END:
+
+
+**** SRF’99 :SRF:
+:PROPERTIES:
+:VENUE: Santa Fe, New Mexico, USA
+:EVENTDATE: <1999-11-01>--<1999-11-05>
+:END:
+
+*** 2000 :2000:
+
+
+**** EPAC’00 :EPAC:
+:PROPERTIES:
+:VENUE: Vienna, Austria
+:EVENTDATE: <2000-06-26>--<2000-06-30>
+:END:
+
+
+**** LINAC’00 :LINAC:
+:PROPERTIES:
+:VENUE: Monterey, CA, USA
+:EVENTDATE: <2000-08-21>--<2000-08-25>
+:END:
+
+*** 2001 :2001:
+
+
+**** DIPAC’01 :DIPAC:
+:PROPERTIES:
+:VENUE: Grenoble, France
+:EVENTDATE: <2001-05-13>--<2001-05-15>
+:END:
+
+
+**** CYCLOTRONS’01 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: East Lansing, Michigan, USA
+:EVENTDATE: <2001-05-13>--<2001-05-17>
+:END:
+
+
+**** PAC’01 :PAC:
+:PROPERTIES:
+:VENUE: Chicago, Illinois, USA
+:EVENTDATE: <2001-06-18>--<2001-06-22>
+:END:
+
+
+**** SRF’01 :SRF:
+:PROPERTIES:
+:VENUE: Tsukuba, Ibaraki, Japan
+:EVENTDATE: <2001-09-06>--<2001-09-11>
+:END:
+
+
+**** APAC’01 :APAC:
+:PROPERTIES:
+:VENUE: Beijing, China
+:EVENTDATE: <2001-09-17>--<2001-09-21>
+:END:
+
+
+**** ICALEPCS’01 :ICALEPCS:
+:PROPERTIES:
+:VENUE: San Jose, California, USA
+:EVENTDATE: <2001-11-27>--<2001-11-30>
+:END:
+
+*** 2002 :2002:
+
+
+**** EPAC’02 :EPAC:
+:PROPERTIES:
+:VENUE: Paris, France
+:EVENTDATE: <2002-06-03>--<2002-06-07>
+:END:
+
+
+**** LINAC’02 :LINAC:
+:PROPERTIES:
+:VENUE: Gyeongju, Korea
+:EVENTDATE: <2002-08-19>--<2002-08-23>
+:END:
+
+*** 2003 :2003:
+
+
+**** DIPAC’03 :DIPAC:
+:PROPERTIES:
+:VENUE: Mainz,  Germany
+:EVENTDATE: <2003-05-05>--<2003-05-07>
+:END:
+
+
+**** PAC’03 :PAC:
+:PROPERTIES:
+:VENUE: Portland, Oregon, USA
+:EVENTDATE: <2003-05-12>--<2003-05-16>
+:END:
+
+
+**** SRF’03 :SRF:
+:PROPERTIES:
+:VENUE: Lübeck/Travemünder, Germany
+:EVENTDATE: <2003-09-08>--<2003-09-12>
+:END:
+
+
+**** ICALEPCS’03 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Gyeongju, Korea
+:EVENTDATE: <2003-10-13>--<2003-10-17>
+:END:
+
+*** 2004 :2004:
+
+
+**** APAC’04 :APAC:
+:PROPERTIES:
+:VENUE: Gyeongju, Korea
+:EVENTDATE: <2004-03-22>--<2004-03-26>
+:END:
+
+
+**** EPAC’04 :EPAC:
+:PROPERTIES:
+:VENUE: Lucerne, Switzerland
+:EVENTDATE: <2004-07-05>--<2004-07-09>
+:END:
+
+
+**** LINAC’04 :LINAC:
+:PROPERTIES:
+:VENUE: Lübeck, Germany
+:EVENTDATE: <2004-08-16>--<2004-08-20>
+:END:
+
+
+**** FEL’04 :FEL:
+:PROPERTIES:
+:VENUE: Trieste, Italy
+:EVENTDATE: <2004-08-29>--<2004-09-03>
+:END:
+
+
+**** RuPAC’04 :RuPAC:
+:PROPERTIES:
+:VENUE: Dubna, Russia
+:EVENTDATE: <2004-10-04>--<2004-10-08>
+:END:
+
+
+**** CYCLOTRONS’04 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Tokyo, Japan
+:EVENTDATE: <2004-10-18>--<2004-10-22>
+:END:
+
+*** 2005 :2005:
+
+
+**** PAC’05 :PAC:
+:PROPERTIES:
+:VENUE: Knoxville, Tennessee, USA
+:EVENTDATE: <2005-05-16>--<2005-05-20>
+:END:
+
+
+**** DIPAC’05 :DIPAC:
+:PROPERTIES:
+:VENUE: Lyon, France
+:EVENTDATE: <2005-06-06>--<2005-06-08>
+:END:
+
+
+**** SRF’05 :SRF:
+:PROPERTIES:
+:VENUE: Cornell University, Ithaca, New York, USA
+:EVENTDATE: <2005-07-10>--<2005-07-15>
+:END:
+
+
+**** FEL’05 :FEL:
+:PROPERTIES:
+:VENUE: Palo Alto, California, USA
+:EVENTDATE: <2005-08-21>--<2005-08-26>
+:END:
+
+
+**** ICALEPCS’05 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Geneva, Switzerland
+:EVENTDATE: <2005-10-10>--<2005-10-14>
+:END:
+
+*** 2006 :2006:
+
+
+**** FLS’06 :FLS:
+:PROPERTIES:
+:VENUE: Hamburg, Germany
+:EVENTDATE: <2006-05-15>--<2006-05-16>
+:END:
+
+
+**** HB’06 :HB:
+:PROPERTIES:
+:VENUE: Tsukuba, Japan
+:EVENTDATE: <2006-05-29>--<2006-06-02>
+:END:
+
+
+**** EPAC’06 :EPAC:
+:PROPERTIES:
+:VENUE: Edinburgh, UK
+:EVENTDATE: <2006-06-26>--<2006-06-30>
+:END:
+
+
+**** LINAC’06 :LINAC:
+:PROPERTIES:
+:VENUE: Knoxville, Tennessee USA
+:EVENTDATE: <2006-08-21>--<2006-08-25>
+:END:
+
+
+**** FEL’06 :FEL:
+:PROPERTIES:
+:VENUE: Berlin, Germany
+:EVENTDATE: <2006-08-27>--<2006-09-01>
+:END:
+
+
+**** RuPAC’06 :RuPAC:
+:PROPERTIES:
+:VENUE: Novosibirsk, Russia
+:EVENTDATE: <2006-09-10>--<2006-09-14>
+:END:
+
+
+**** ICAP’06 :ICAP:
+:PROPERTIES:
+:VENUE: Chamonix, France
+:EVENTDATE: <2006-10-02>--<2006-10-06>
+:END:
+
+*** 2007 :2007:
+
+
+**** APAC’07 :APAC:
+:PROPERTIES:
+:VENUE: Indore, India
+:EVENTDATE: <2007-01-29>--<2007-02-02>
+:END:
+
+
+**** DIPAC’07 :DIPAC:
+:PROPERTIES:
+:VENUE: Venice, Italy
+:EVENTDATE: <2007-05-20>--<2007-05-23>
+:END:
+
+
+**** ERL’07 :ERL:
+:PROPERTIES:
+:VENUE: Daresbury, United Kingdom
+:EVENTDATE: <2007-05-21>--<2007-05-25>
+:END:
+
+
+**** PAC’07 :PAC:
+:PROPERTIES:
+:VENUE: Albuquerque, New Mexico, USA
+:EVENTDATE: <2007-06-25>--<2007-06-29>
+:END:
+
+
+**** FEL’07 :FEL:
+:PROPERTIES:
+:VENUE: Novosibirsk, Russia
+:EVENTDATE: <2007-08-26>--<2007-08-31>
+:END:
+
+
+**** COOL’07 :COOL:
+:PROPERTIES:
+:VENUE: Bad Kreuznach, Germany
+:EVENTDATE: <2007-09-09>--<2007-09-14>
+:END:
+
+
+**** CYCLOTRONS’07 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Giardini Naxos, Italy
+:EVENTDATE: <2007-10-01>--<2007-10-05>
+:END:
+
+
+**** SRF’07 :SRF:
+:PROPERTIES:
+:VENUE: Peking Univ., Beijing, China
+:EVENTDATE: <2007-10-14>--<2007-10-19>
+:END:
+
+
+**** ICALEPCS’07 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Knoxville, Tennessee, USA
+:EVENTDATE: <2007-10-15>--<2007-10-19>
+:END:
+
+*** 2008 :2008:
+
+
+**** eeFACT’08 :eeFACT:
+:PROPERTIES:
+:VENUE: Novosibirsk, Russia
+:EVENTDATE: <2008-04-14>--<2008-04-16>
+:END:
+
+
+**** BIW’08 :BIW:
+:PROPERTIES:
+:VENUE: Tahoe City, California, USA
+:EVENTDATE: <2008-05-04>--<2008-05-08>
+:END:
+
+
+**** EPAC’08 :EPAC:
+:PROPERTIES:
+:VENUE: Genoa, Italy
+:EVENTDATE: <2008-06-23>--<2008-06-27>
+:END:
+
+
+**** FEL’08 :FEL:
+:PROPERTIES:
+:VENUE: Gyeongju, Korea
+:EVENTDATE: <2008-08-24>--<2008-08-29>
+:END:
+
+
+**** HB’08 :HB:
+:PROPERTIES:
+:VENUE: Nashville, Tennessee, USA
+:EVENTDATE: <2008-08-25>--<2008-08-29>
+:END:
+
+
+**** ECRIS’08 :ECRIS:
+:PROPERTIES:
+:VENUE: Chicago, Illinois, USA
+:EVENTDATE: <2008-09-15>--<2008-09-18>
+:END:
+
+
+**** RuPAC’08 :RuPAC:
+:PROPERTIES:
+:VENUE: Zvenigorod, Russia
+:EVENTDATE: <2008-09-28>--<2008-10-03>
+:END:
+
+
+**** LINAC’08 :LINAC:
+:PROPERTIES:
+:VENUE: Victoria, British Columbia, Canada
+:EVENTDATE: <2008-09-29>--<2008-10-03>
+:END:
+
+
+**** PCaPAC’08 :PCaPAC:
+:PROPERTIES:
+:VENUE: Ljubljana, Slovenia
+:EVENTDATE: <2008-10-20>--<2008-10-23>
+:END:
+
+*** 2009 :2009:
+
+
+**** PAC’09 :PAC:
+:PROPERTIES:
+:VENUE: Vancouver, British Columbia, Canada
+:EVENTDATE: <2009-05-04>--<2009-05-08>
+:END:
+
+
+**** DIPAC’09 :DIPAC:
+:PROPERTIES:
+:VENUE: Basel, Switzerland
+:EVENTDATE: <2009-05-25>--<2009-05-27>
+:END:
+
+
+**** HIAT’09 :HIAT:
+:PROPERTIES:
+:VENUE: Venice, Italy
+:EVENTDATE: <2009-06-08>--<2009-06-12>
+:END:
+
+
+**** ERL’09 :ERL:
+:PROPERTIES:
+:VENUE: Ithaca, New York, USA
+:EVENTDATE: <2009-06-08>--<2009-06-12>
+:END:
+
+
+**** FEL’09 :FEL:
+:PROPERTIES:
+:VENUE: Liverpool, UK
+:EVENTDATE: <2009-08-23>--<2009-08-28>
+:END:
+
+
+**** ICAP’09 :ICAP:
+:PROPERTIES:
+:VENUE: San Francisco, California, US
+:EVENTDATE: <2009-08-31>--<2009-09-04>
+:END:
+
+
+**** COOL’09 :COOL:
+:PROPERTIES:
+:VENUE: Lanzhou, China
+:EVENTDATE: <2009-08-31>--<2009-09-04>
+:END:
+
+
+**** SRF’09 :SRF:
+:PROPERTIES:
+:VENUE: Berlin, Germany
+:EVENTDATE: <2009-09-20>--<2009-09-25>
+:END:
+
+
+**** ICALEPCS’09 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Kobe, Japan
+:EVENTDATE: <2009-10-12>--<2009-10-16>
+:END:
+
+*** 2010 :2010:
+
+
+**** BIW’10 :BIW:
+:PROPERTIES:
+:VENUE: Santa Fe, New Mexico, USA
+:EVENTDATE: <2010-05-02>--<2010-05-06>
+:END:
+
+
+**** IPAC’10 :IPAC:
+:PROPERTIES:
+:VENUE: Kyoto, Japan
+:EVENTDATE: <2010-05-23>--<2010-05-28>
+:END:
+
+
+**** FEL’10 :FEL:
+:PROPERTIES:
+:VENUE: Malmö, Sweden
+:EVENTDATE: <2010-08-23>--<2010-08-27>
+:END:
+
+
+**** ECRIS’10 :ECRIS:
+:PROPERTIES:
+:VENUE: Grenoble, France
+:EVENTDATE: <2010-08-23>--<2010-08-26>
+:END:
+
+
+**** CYCLOTRONS’10 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Lanzhou, China
+:EVENTDATE: <2010-09-06>--<2010-09-10>
+:END:
+
+
+**** LINAC’10 :LINAC:
+:PROPERTIES:
+:VENUE: Tsukuba, Japan
+:EVENTDATE: <2010-09-12>--<2010-09-17>
+:END:
+
+
+**** RuPAC’10 :RuPAC:
+:PROPERTIES:
+:VENUE: Protvino, Russia
+:EVENTDATE: <2010-09-27>--<2010-10-01>
+:END:
+
+
+**** HB’10 :HB:
+:PROPERTIES:
+:VENUE: Morschach, Switzerland
+:EVENTDATE: <2010-09-27>--<2010-10-01>
+:END:
+
+
+**** PCaPAC’10 :PCaPAC:
+:PROPERTIES:
+:VENUE: Saskatoon, Saskatchewan, Canada
+:EVENTDATE: <2010-10-06>--<2010-10-08>
+:END:
+
+
+**** eCloud’10 :eCloud:
+:PROPERTIES:
+:VENUE: Ithaca, New York, USA
+:EVENTDATE: <2010-10-08>--<2010-10-12>
+:END:
+
+*** 2011 :2011:
+
+
+**** NAPAC’11 :NAPAC:
+:PROPERTIES:
+:VENUE: New York, NY, USA
+:EVENTDATE: <2011-03-28>--<2011-04-01>
+:END:
+
+
+**** DIPAC’11 :DIPAC:
+:PROPERTIES:
+:VENUE: Hamburg, Germany
+:EVENTDATE: <2011-05-16>--<2011-05-18>
+:END:
+
+
+**** SRF’11 :SRF:
+:PROPERTIES:
+:VENUE: Chicago, IL, USA
+:EVENTDATE: <2011-07-25>--<2011-07-29>
+:END:
+
+
+**** FEL’11 :FEL:
+:PROPERTIES:
+:VENUE: Shanghai, China
+:EVENTDATE: <2011-08-22>--<2011-08-26>
+:END:
+
+
+**** IPAC’11 :IPAC:
+:PROPERTIES:
+:VENUE: San Sebastián, Spain
+:EVENTDATE: <2011-09-04>--<2011-09-09>
+:END:
+
+
+**** COOL’11 :COOL:
+:PROPERTIES:
+:VENUE: Alushta, Ukraine
+:EVENTDATE: <2011-09-12>--<2011-09-16>
+:END:
+
+
+**** ICALEPCS’11 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Grenoble, France
+:EVENTDATE: <2011-10-10>--<2011-10-14>
+:END:
+
+
+**** ERL’11 :ERL:
+:PROPERTIES:
+:VENUE: Tsukuba, Japan
+:EVENTDATE: <2011-10-16>--<2011-10-21>
+:END:
+
+*** 2012 :2012:
+
+
+**** BIW’12 :BIW:
+:PROPERTIES:
+:VENUE: Newport News, Virginia, USA
+:EVENTDATE: <2012-04-15>--<2012-04-19>
+:END:
+
+
+**** IPAC’12 :IPAC:
+:PROPERTIES:
+:VENUE: New Orleans, Louisiana, USA
+:EVENTDATE: <2012-05-20>--<2012-05-25>
+:END:
+
+
+**** HIAT’12 :HIAT:
+:PROPERTIES:
+:VENUE: Chicago, IL, USA
+:EVENTDATE: <2012-06-18>--<2012-06-21>
+:END:
+
+
+**** ICAP’12 :ICAP:
+:PROPERTIES:
+:VENUE: Rostock-Warnemünde, Germany
+:EVENTDATE: <2012-08-19>--<2012-08-24>
+:END:
+
+
+**** FEL’12 :FEL:
+:PROPERTIES:
+:VENUE: Nara, Japan
+:EVENTDATE: <2012-08-26>--<2012-08-31>
+:END:
+
+
+**** LINAC’12 :LINAC:
+:PROPERTIES:
+:VENUE: Tel Aviv, Israel
+:EVENTDATE: <2012-09-09>--<2012-09-14>
+:END:
+
+
+**** HB’12 :HB:
+:PROPERTIES:
+:VENUE: Beijing, China
+:EVENTDATE: <2012-09-17>--<2012-09-21>
+:END:
+
+
+**** RuPAC’12 :RuPAC:
+:PROPERTIES:
+:VENUE: Saint-Petersburg, Russia
+:EVENTDATE: <2012-09-24>--<2012-09-28>
+:END:
+
+
+**** ECRIS’12 :ECRIS:
+:PROPERTIES:
+:VENUE: Sydney, Australia
+:EVENTDATE: <2012-09-25>--<2012-09-28>
+:END:
+
+
+**** IBIC’12 :IBIC:
+:PROPERTIES:
+:VENUE: Tsukuba, Japan
+:EVENTDATE: <2012-10-01>--<2012-10-04>
+:END:
+
+
+**** PCaPAC’12 :PCaPAC:
+:PROPERTIES:
+:VENUE: Kolkata, India
+:EVENTDATE: <2012-12-04>--<2012-12-07>
+:END:
+
+*** 2013 :2013:
+
+
+**** IPAC’13 :IPAC:
+:PROPERTIES:
+:VENUE: Shanghai, China
+:EVENTDATE: <2013-05-12>--<2013-05-17>
+:END:
+
+
+**** COOL’13 :COOL:
+:PROPERTIES:
+:VENUE: Mürren, Switzerland
+:EVENTDATE: <2013-06-10>--<2013-06-14>
+:END:
+
+
+**** FEL’13 :FEL:
+:PROPERTIES:
+:VENUE: Manhattan, NY, USA
+:EVENTDATE: <2013-08-26>--<2013-08-30>
+:END:
+
+
+**** ERL’13 :ERL:
+:PROPERTIES:
+:VENUE: Novosibirsk, Russia
+:EVENTDATE: <2013-09-09>--<2013-09-13>
+:END:
+
+
+**** IBIC’13 :IBIC:
+:PROPERTIES:
+:VENUE: Oxford, UK
+:EVENTDATE: <2013-09-16>--<2013-09-19>
+:END:
+
+
+**** CYCLOTRONS’13 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Vancouver, BC, Canada
+:EVENTDATE: <2013-09-16>--<2013-09-20>
+:END:
+
+
+**** SRF’13 :SRF:
+:PROPERTIES:
+:VENUE: Paris, France
+:EVENTDATE: <2013-09-23>--<2013-09-27>
+:END:
+
+
+**** NAPAC’13 :NAPAC:
+:PROPERTIES:
+:VENUE: Pasadena, CA, USA
+:EVENTDATE: <2013-09-29>--<2013-10-04>
+:END:
+
+
+**** ICALEPCS’13 :ICALEPCS:
+:PROPERTIES:
+:VENUE: San Francisco, CA, USA
+:EVENTDATE: <2013-10-06>--<2013-10-11>
+:END:
+
+*** 2014 :2014:
+
+
+**** IPAC’14 :IPAC:
+:PROPERTIES:
+:VENUE: Dresden, Germany
+:EVENTDATE: <2014-06-15>--<2014-06-20>
+:END:
+
+
+**** SAP’14 :SAP:
+:PROPERTIES:
+:VENUE: Lanzhou, China
+:EVENTDATE: <2014-08-13>--<2014-08-15>
+:END:
+
+
+**** ECRIS’14 :ECRIS:
+:PROPERTIES:
+:VENUE: Nizhny Novgorod, Russia
+:EVENTDATE: <2014-08-24>--<2014-08-28>
+:END:
+
+
+**** FEL’14 :FEL:
+:PROPERTIES:
+:VENUE: Basel, Switzerland
+:EVENTDATE: <2014-08-25>--<2014-08-29>
+:END:
+
+
+**** LINAC’14 :LINAC:
+:PROPERTIES:
+:VENUE: Geneva, Switzerland
+:EVENTDATE: <2014-08-31>--<2014-09-05>
+:END:
+
+
+**** IBIC’14 :IBIC:
+:PROPERTIES:
+:VENUE: Monterey, CA, USA
+:EVENTDATE: <2014-09-14>--<2014-09-18>
+:END:
+
+
+**** RuPAC’14 :RuPAC:
+:PROPERTIES:
+:VENUE: Obninsk, Russia
+:EVENTDATE: <2014-10-06>--<2014-10-10>
+:END:
+
+
+**** HF’14 :HF:
+:PROPERTIES:
+:VENUE: Beijing, China
+:EVENTDATE: <2014-10-09>--<2014-10-12>
+:END:
+
+
+**** PCaPAC’14 :PCaPAC:
+:PROPERTIES:
+:VENUE: Karlsruhe, Germany
+:EVENTDATE: <2014-10-14>--<2014-10-17>
+:END:
+
+
+**** HB’14 :HB:
+:PROPERTIES:
+:VENUE: East-Lansing, MI, USA
+:EVENTDATE: <2014-11-10>--<2014-11-14>
+:END:
+
+*** 2015 :2015:
+
+
+**** IPAC’15 :IPAC:
+:PROPERTIES:
+:VENUE: Richmond, VA, USA
+:EVENTDATE: <2015-05-03>--<2015-05-08>
+:END:
+
+
+**** ERL’15 :ERL:
+:PROPERTIES:
+:VENUE: Stony Brook, NY, USA
+:EVENTDATE: <2015-06-07>--<2015-06-12>
+:END:
+
+
+**** FEL’15 :FEL:
+:PROPERTIES:
+:VENUE: Daejeon, Korea
+:EVENTDATE: <2015-08-23>--<2015-08-28>
+:END:
+
+
+**** HIAT’15 :HIAT:
+:PROPERTIES:
+:VENUE: Yokohama, Japan
+:EVENTDATE: <2015-09-07>--<2015-09-11>
+:END:
+
+
+**** SRF’15 :SRF:
+:PROPERTIES:
+:VENUE: Whistler, BC, Canada
+:EVENTDATE: <2015-09-13>--<2015-09-18>
+:END:
+
+
+**** IBIC’15 :IBIC:
+:PROPERTIES:
+:VENUE: Melbourne, Australia
+:EVENTDATE: <2015-09-13>--<2015-09-17>
+:END:
+
+
+**** COOL’15 :COOL:
+:PROPERTIES:
+:VENUE: Newport News, Virginia, USA
+:EVENTDATE: <2015-09-28>--<2015-10-02>
+:END:
+
+
+**** ICAP’15 :ICAP:
+:PROPERTIES:
+:VENUE: Shanghai, China
+:EVENTDATE: <2015-10-12>--<2015-10-16>
+:END:
+
+
+**** ICALEPCS’15 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Melbourne, Australia
+:EVENTDATE: <2015-10-17>--<2015-10-23>
+:END:
+
+*** 2016 :2016:
+
+
+**** HB’16 :HB:
+:PROPERTIES:
+:VENUE: Malmö, Sweden
+:EVENTDATE: <2016-07-03>--<2016-07-08>
+:END:
+
+
+**** IPAC’16 :IPAC:
+:PROPERTIES:
+:VENUE: Busan, Korea
+:EVENTDATE: <2016-08-08>--<2016-05-13>
+:END:
+
+
+**** ECRIS’16 :ECRIS:
+:PROPERTIES:
+:VENUE: Busan, Korea
+:EVENTDATE: <2016-08-28>--<2016-09-01>
+:END:
+
+
+**** MEDSI’16 :MEDSI:
+:PROPERTIES:
+:VENUE: Barcelona, Spain
+:EVENTDATE: <2016-09-11>--<2016-09-16>
+:END:
+
+
+**** IBIC’16 :IBIC:
+:PROPERTIES:
+:VENUE: Barcelona, Spain
+:EVENTDATE: <2016-09-11>--<2016-09-15>
+:END:
+
+
+**** CYCLOTRONS’16 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Zürich, Switzerland
+:EVENTDATE: <2016-09-11>--<2016-09-16>
+:END:
+
+
+**** LINAC’16 :LINAC:
+:PROPERTIES:
+:VENUE: East Lansing, MI, USA
+:EVENTDATE: <2016-09-25>--<2016-09-30>
+:END:
+
+
+**** NAPAC’16 :NAPAC:
+:PROPERTIES:
+:VENUE: Chicago, IL, USA
+:EVENTDATE: <2016-10-09>--<2016-10-14>
+:END:
+
+
+**** eeFACT’16 :eeFACT:
+:PROPERTIES:
+:VENUE: Daresbury, United Kingdom
+:EVENTDATE: <2016-10-24>--<2016-10-27>
+:END:
+
+
+**** PCaPAC’16 :PCaPAC:
+:PROPERTIES:
+:VENUE: Campinas, Brazil
+:EVENTDATE: <2016-10-25>--<2016-10-28>
+:END:
+
+
+**** RuPAC’16 :RuPAC:
+:PROPERTIES:
+:VENUE: Saint-Petersburg, Russia
+:EVENTDATE: <2016-11-21>--<2016-11-25>
+:END:
+
+*** 2017 :2017:
+
+
+**** IPAC’17 :IPAC:
+:PROPERTIES:
+:VENUE: Copenhagen, Denmark
+:EVENTDATE: <2017-05-14>--<2017-05-19>
+:END:
+
+
+**** ERL’17 :ERL:
+:PROPERTIES:
+:VENUE: Geneva, Switzerland
+:EVENTDATE: <2017-06-18>--<2017-06-23>
+:END:
+
+
+**** SRF’17 :SRF:
+:PROPERTIES:
+:VENUE: Lanzhou, China
+:EVENTDATE: <2017-07-17>--<2017-07-21>
+:END:
+
+
+**** IBIC’17 :IBIC:
+:PROPERTIES:
+:VENUE: Grand Rapids, MI, USA
+:EVENTDATE: <2017-08-20>--<2017-08-24>
+:END:
+
+
+**** FEL’17 :FEL:
+:PROPERTIES:
+:VENUE: Santa Fe, NM, USA
+:EVENTDATE: <2017-08-20>--<2017-08-25>
+:END:
+
+
+**** SAP’17 :SAP:
+:PROPERTIES:
+:VENUE: Jishou, Hunan, China
+:EVENTDATE: <2017-08-28>--<2017-08-30>
+:END:
+
+
+**** COOL’17 :COOL:
+:PROPERTIES:
+:VENUE: Bonn, Germany
+:EVENTDATE: <2017-09-18>--<2017-09-21>
+:END:
+
+
+**** ICALEPCS’17 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Barcelona, Spain
+:EVENTDATE: <2017-10-08>--<2017-10-13>
+:END:
+
+*** 2018 :2018:
+
+
+**** FLS’18 :FLS:
+:PROPERTIES:
+:VENUE: Shanghai, China
+:EVENTDATE: <2018-03-05>--<2018-03-09>
+:END:
+
+
+**** IPAC’18 :IPAC:
+:PROPERTIES:
+:VENUE: Vancouver, Canada
+:EVENTDATE: <2018-04-29>--<2018-05-04>
+:END:
+
+
+**** HB’18 :HB:
+:PROPERTIES:
+:VENUE: Daejeon, Korea
+:EVENTDATE: <2018-06-18>--<2018-06-22>
+:END:
+
+
+**** MEDSI’18 :MEDSI:
+:PROPERTIES:
+:VENUE: Paris, France
+:EVENTDATE: <2018-06-25>--<2018-06-29>
+:END:
+
+
+**** IBIC’18 :IBIC:
+:PROPERTIES:
+:VENUE: Shanghai, China
+:EVENTDATE: <2018-09-09>--<2018-09-13>
+:END:
+
+
+**** ECRIS’18 :ECRIS:
+:PROPERTIES:
+:VENUE: Catania, Italy
+:EVENTDATE: <2018-09-10>--<2018-09-14>
+:END:
+
+
+**** LINAC’18 :LINAC:
+:PROPERTIES:
+:VENUE: Beijing, China
+:EVENTDATE: <2018-09-16>--<2018-09-21>
+:END:
+
+
+**** eeFACT’18 :eeFACT:
+:PROPERTIES:
+:VENUE: Hong Kong, China
+:EVENTDATE: <2018-09-24>--<2018-09-27>
+:END:
+
+
+**** RuPAC’18 :RuPAC:
+:PROPERTIES:
+:VENUE: Protvino, Russia
+:EVENTDATE: <2018-10-01>--<2018-10-05>
+:END:
+
+
+**** PCaPAC’18 :PCaPAC:
+:PROPERTIES:
+:VENUE: Hsinchu, Taiwan
+:EVENTDATE: <2018-10-16>--<2018-10-19>
+:END:
+
+
+**** ICAP’18 :ICAP:
+:PROPERTIES:
+:VENUE: Key West, FL, USA
+:EVENTDATE: <2018-10-20>--<2018-10-24>
+:END:
+
+
+**** HIAT’18 :HIAT:
+:PROPERTIES:
+:VENUE: Lanzhou, China
+:EVENTDATE: <2018-10-22>--<2018-10-26>
+:END:
+
+*** 2019 :2019:
+
+
+**** IPAC’19 :IPAC:
+:PROPERTIES:
+:VENUE: Melbourne, Australia
+:EVENTDATE: <2019-05-19>--<2019-05-24>
+:END:
+
+
+**** SRF’19 :SRF:
+:PROPERTIES:
+:VENUE: Dresden, Germany
+:EVENTDATE: <2019-06-30>--<2019-07-05>
+:END:
+
+
+**** FEL’19 :FEL:
+:PROPERTIES:
+:VENUE: Hamburg, Germany
+:EVENTDATE: <2019-08-26>--<2019-08-30>
+:END:
+
+
+**** NAPAC’19 :NAPAC:
+:PROPERTIES:
+:VENUE: Lansing, MI, USA
+:EVENTDATE: <2019-09-02>--<2019-09-06>
+:END:
+
+
+**** IBIC’19 :IBIC:
+:PROPERTIES:
+:VENUE: Malmö, Sweden
+:EVENTDATE: <2019-09-08>--<2019-09-12>
+:END:
+
+
+**** ERL’19 :ERL:
+:PROPERTIES:
+:VENUE: Berlin, Germany
+:EVENTDATE: <2019-09-15>--<2019-09-20>
+:END:
+
+
+**** CYCLOTRONS’19 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Cape Town, South Africa
+:EVENTDATE: <2019-09-22>--<2019-09-27>
+:END:
+
+
+**** COOL’19 :COOL:
+:PROPERTIES:
+:VENUE: Novosibirsk, Russian
+:EVENTDATE: <2019-09-23>--<2019-09-27>
+:END:
+
+
+**** ICALEPCS’19 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Brooklyn, New York City, NY, USA
+:EVENTDATE: <2019-10-07>--<2019-10-11>
+:END:
+
+*** 2020 :2020:
+
+
+**** IPAC’20 :IPAC:
+:PROPERTIES:
+:VENUE: Caen, France
+:EVENTDATE: <2020-05-10>--<2020-05-15>
+:END:
+
+
+**** LINAC’20 :LINAC:
+:PROPERTIES:
+:VENUE: Liverpool, UK
+:EVENTDATE: <2020-09-01>--<2020-09-04>
+:END:
+
+
+**** IBIC’20 :IBIC:
+:PROPERTIES:
+:VENUE: Santos, Brazil
+:EVENTDATE: <2020-09-14>--<2020-09-18>
+:END:
+
+
+**** ECRIS’20 :ECRIS:
+:PROPERTIES:
+:VENUE: East Lansing, MI, USA
+:EVENTDATE: <2020-09-28>--<2020-09-30>
+:END:
+
+*** 2021 :2021:
+
+
+**** IPAC’21 :IPAC:
+:PROPERTIES:
+:VENUE: Campinas, Brazil
+:EVENTDATE: <2021-05-24>--<2021-05-28>
+:END:
+
+
+**** SRF’21 :SRF:
+:PROPERTIES:
+:VENUE: East Lansing, MI, USA
+:EVENTDATE: <2021-06-27>--<2021-07-02>
+:END:
+
+
+**** MEDSI’21 :MEDSI:
+:PROPERTIES:
+:VENUE: Chicago, IL, USA
+:EVENTDATE: <2021-07-26>--<2021-07-29>
+:END:
+
+
+**** IBIC’21 :IBIC:
+:PROPERTIES:
+:VENUE: Pohang, Korea
+:EVENTDATE: <2021-09-13>--<2021-09-17>
+:END:
+
+
+**** RuPAC’21 :RuPAC:
+:PROPERTIES:
+:VENUE: Alushta, Russia
+:EVENTDATE: <2021-09-27>--<2021-10-01>
+:END:
+
+
+**** HB’21 :HB:
+:PROPERTIES:
+:VENUE: Batavia, IL, USA
+:EVENTDATE: <2021-10-04>--<2021-10-08>
+:END:
+
+
+**** ICALEPCS’21 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Shanghai, China
+:EVENTDATE: <2021-10-14>--<2021-10-22>
+:END:
+
+
+**** COOL’21 :COOL:
+:PROPERTIES:
+:VENUE: Novosibirsk, Russian
+:EVENTDATE: <2021-11-01>--<2021-11-05>
+:END:
+
+*** 2022 :2022:
+
+
+**** IPAC’22 :IPAC:
+:PROPERTIES:
+:VENUE: Bangkok, Thailand
+:EVENTDATE: <2022-06-12>--<2022-06-17>
+:END:
+
+
+**** HIAT’22 :HIAT:
+:PROPERTIES:
+:VENUE: Darmstadt, Germany
+:EVENTDATE: <2022-06-27>--<2022-07-01>
+:END:
+
+
+**** NAPAC’22 :NAPAC:
+:PROPERTIES:
+:VENUE: Albuquerque, NM, USA
+:EVENTDATE: <2022-08-07>--<2022-08-12>
+:END:
+
+
+**** FEL’22 :FEL:
+:PROPERTIES:
+:VENUE: Trieste, Italy
+:EVENTDATE: <2022-08-22>--<2022-08-26>
+:END:
+
+
+**** LINAC’22 :LINAC:
+:PROPERTIES:
+:VENUE: Liverpool, UK
+:EVENTDATE: <2022-08-28>--<2022-09-02>
+:END:
+
+
+**** IBIC’22 :IBIC:
+:PROPERTIES:
+:VENUE: Kraków, Poland
+:EVENTDATE: <2022-09-11>--<2022-09-15>
+:END:
+
+
+**** eeFACT’22 :eeFACT:
+:PROPERTIES:
+:VENUE: Frascati, Italy
+:EVENTDATE: <2022-09-12>--<2022-09-16>
+:END:
+
+
+**** PCaPAC’22 :PCaPAC:
+:PROPERTIES:
+:VENUE: Dolní Brežany, Czech Republic
+:EVENTDATE: <2022-10-04>--<2022-10-07>
+:END:
+
+
+**** CYCLOTRONS’22 :CYCLOTRONS:
+:PROPERTIES:
+:VENUE: Beijing, China
+:EVENTDATE: <2022-12-05>--<2022-12-09>
+:END:
+
+*** 2023 :2023:
+
+
+**** IPAC’23 :IPAC:
+:PROPERTIES:
+:VENUE: Venice, Italy
+:EVENTDATE: <2023-05-07>--<2023-05-12>
+:END:
+
+
+**** SRF’23 :SRF:
+:PROPERTIES:
+:VENUE: Grand Rapids, MI, USA
+:EVENTDATE: <2023-06-25>--<2023-06-30>
+:END:
+
+
+**** FLS’23 :FLS:
+:PROPERTIES:
+:VENUE: Luzern, Switzerland
+:EVENTDATE: <2023-08-27>--<2023-09-01>
+:END:
+
+
+**** IBIC’23 :IBIC:
+:PROPERTIES:
+:VENUE: Saskatoon, Canada
+:EVENTDATE: <2023-09-10>--<2023-09-14>
+:END:
+
+
+**** ICALEPCS’23 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Cape Town, South Africa
+:EVENTDATE: <2023-10-07>--<2023-10-13>
+:END:
+
+
+**** COOL’23 :COOL:
+:PROPERTIES:
+:VENUE: Montreux, Switzerland
+:EVENTDATE: <2023-10-08>--<2023-10-14>
+:END:
+
+
+**** MEDSI’23 :MEDSI:
+:PROPERTIES:
+:VENUE: Beijing, China
+:EVENTDATE: <2023-11-06>--<2023-11-10>
+:END:
+
+*** 2024 :2024:
+
+
+**** IPAC’24 :IPAC:
+:PROPERTIES:
+:VENUE: Nashville, TN, USA
+:EVENTDATE: <2024-05-18>--<2024-05-24>
+:END:
+
+
+**** FEL’24 :FEL:
+:PROPERTIES:
+:VENUE: Warsaw, Poland
+:EVENTDATE: <2024-08-19>--<2024-08-23>
+:END:
+
+
+**** LINAC’24 :LINAC:
+:PROPERTIES:
+:VENUE: Chicago, IL, USA
+:EVENTDATE: <2024-08-25>--<2024-08-30>
+:END:
+
+
+**** IBIC’24 :IBIC:
+:PROPERTIES:
+:VENUE: Beijing, China
+:EVENTDATE: <2024-09-09>--<2024-09-13>
+:END:
+
+
+**** ECRIS’24 :ECRIS:
+:PROPERTIES:
+:VENUE: Darmstadt, Germany
+:EVENTDATE: <2024-09-15>--<2024-09-19>
+:END:
+
+
+**** ERL’24 :ERL:
+:PROPERTIES:
+:VENUE: Tsukuba, Japan
+:EVENTDATE: <2024-09-24>--<2024-09-27>
+:END:
+
+*** 2025 :2025:
+
+
+**** eeFACT’25 :eeFACT:
+:PROPERTIES:
+:VENUE: Tsukuba, Japan
+:EVENTDATE: <2025-03-03>--<2025-03-07>
+:END:
+
+
+**** IPAC’25 :IPAC:
+:PROPERTIES:
+:VENUE: Taipei, Taiwan
+:EVENTDATE: <2025-06-01>--<2025-06-06>
+:END:
+
+
+**** HIAT’25 :HIAT:
+:PROPERTIES:
+:VENUE: East Lansing, MI, USA
+:EVENTDATE: <2025-06-22>--<2025-06-27>
+:END:
+
+
+**** IBIC’25 :IBIC:
+:PROPERTIES:
+:VENUE: Liverpool, UK
+:EVENTDATE: <2025-09-07>--<2025-09-11>
+:END:
+
+
+**** MEDSI’25 :MEDSI:
+:PROPERTIES:
+:VENUE: Lund, Sweden
+:EVENTDATE: <2025-09-15>--<2025-09-19>
+:END:
+
+
+**** ICALEPCS’25 :ICALEPCS:
+:PROPERTIES:
+:VENUE: Chicago, IL, USA
+:EVENTDATE: <2025-09-20>--<2025-09-26>
+:END:
+
+
+**** SRF’25 :SRF:
+:PROPERTIES:
+:VENUE: Tokyo, japan
+:EVENTDATE: <2025-09-21>--<2025-09-26>
+:END:
+
+
+**** HB’25 :HB:
+:PROPERTIES:
+:VENUE: Huizhou, Guangdong, China
+:EVENTDATE: <2025-10-19>--<2025-10-24>
+:END:
+
