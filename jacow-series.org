@@ -1,0 +1,1027 @@
+#+TITLE: All JACoW proceedings
+#+AUTHOR: Zhichu Chen
+
+#+STARTUP: show3levels
+
+#+EXPORT_FILE_NAME: index
+
+#+OPTIONS: num:nil html-style:nil
+#+HTML_DOCTYPE: <!DOCTYPE html>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+#+HTML_HEAD: <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+#+HTML_HEAD: <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+
+* Events
+
+** ABD Workshop on High Luminosity Circular e+e- Colliders
+#+NAME: eeFACT
+| Venue                     | Date                         | Editors |
+|---------------------------+------------------------------+---------|
+| Novosibirsk, Russia       | <2008-04-14>--<2008-04-16> |         |
+| Daresbury, United Kingdom | <2016-10-24>--<2016-10-27> |         |
+| Hong Kong, China          | <2018-09-24>--<2018-09-27> |         |
+| Frascati, Italy           | <2022-09-12>--<2022-09-16> |         |
+| Tsukuba, Japan            | <2025-03-03>--<2025-03-07> |         |
+
+
+** ABD Workshop on Electron Cloud Physics
+#+NAME: eCloud
+| Venue                 | Date                         | Editors |
+|-----------------------+------------------------------+---------|
+| Ithaca, New York, USA | <2010-10-08>--<2010-10-12> |         |
+
+
+** ABD Workshop on Energy Recovery Linacs
+#+NAME: ERL
+| Venue                     | Date                         | Editors |
+|---------------------------+------------------------------+---------|
+| Daresbury, United Kingdom | <2007-05-21>--<2007-05-25> |         |
+| Ithaca, New York, USA     | <2009-06-08>--<2009-06-12> |         |
+| Tsukuba, Japan            | <2011-10-16>--<2011-10-21> |         |
+| Novosibirsk, Russia       | <2013-09-09>--<2013-09-13> |         |
+| Stony Brook, NY, USA      | <2015-06-07>--<2015-06-12> |         |
+| Geneva, Switzerland       | <2017-06-18>--<2017-06-23> |         |
+| Berlin, Germany           | <2019-09-15>--<2019-09-20> |         |
+| Tsukuba, Japan            | <2024-09-24>--<2024-09-27> |         |
+
+
+** ABD Workshop on Future Light Sources
+#+NAME: FLS
+| Venue               | Date                         | Editors |
+|---------------------+------------------------------+---------|
+| Hamburg, Germany    | <2006-05-15>--<2006-05-16> |         |
+| Shanghai, China     | <2018-03-05>--<2018-03-09> |         |
+| Luzern, Switzerland | <2023-08-27>--<2023-09-01> |         |
+
+
+** ABD Workshop on High-Intensity
+#+NAME: HB
+| Venue                     | Date                         | Editors |
+|---------------------------+------------------------------+---------|
+| Tsukuba, Japan            | <2006-05-29>--<2006-06-02> |         |
+| Nashville, Tennessee, USA | <2008-08-25>--<2008-08-29> |         |
+| Morschach, Switzerland    | <2010-09-27>--<2010-10-01> |         |
+| Beijing, China            | <2012-09-17>--<2012-09-21> |         |
+| East-Lansing, MI, USA     | <2014-11-10>--<2014-11-14> |         |
+| Malmö, Sweden             | <2016-07-03>--<2016-07-08> |         |
+| Daejeon, Korea            | <2018-06-18>--<2018-06-22> |         |
+| Batavia, IL, USA          | <2021-10-04>--<2021-10-08> |         |
+| CERN, Geneva, Switzerland | <2023-10-09>--<2023-10-13> |         |
+| Huizhou, Guangdong, China | <2025-10-19>--<2025-10-24> |         |
+
+
+** ABD Workshop on High Luminosity Circular e+e- Colliders - Higgs Factory
+#+NAME: HF
+| Venue          | Date                         | Editors |
+|----------------+------------------------------+---------|
+| Beijing, China | <2014-10-09>--<2014-10-12> |         |
+
+
+** Asian Particle Accelerator Conf. (superseded by [[*Int. Particle Accelerator Conf.][IPAC]])
+#+NAME: APAC
+| Venue           | Date                         | Editors |
+|-----------------+------------------------------+---------|
+| Tsukuba, Japan  | <1998-03-23>--<1998-03-27> |         |
+| Beijing, China  | <2001-09-17>--<2001-09-21> |         |
+| Gyeongju, Korea | <2004-03-22>--<2004-03-26> |         |
+| Indore, India   | <2007-01-29>--<2007-02-02> |         |
+
+
+** Beam Instrum. Workshop (superseded by [[*Int. Beam Instrum. Conf.][IBIC]])
+#+NAME: BIW
+| Venue                       | Date                         | Editors |
+|-----------------------------+------------------------------+---------|
+| Tahoe City, California, USA | <2008-05-04>--<2008-05-08> |         |
+| Santa Fe, New Mexico, USA   | <2010-05-02>--<2010-05-06> |         |
+| Newport News, Virginia, USA | <2012-04-15>--<2012-04-19> |         |
+
+
+** Int. Workshop on Beam Cooling and Related Topics
+#+NAME: COOL
+| Venue                       | Date                         | Editors |
+|-----------------------------+------------------------------+---------|
+| Bad Kreuznach, Germany      | <2007-09-09>--<2007-09-14> |         |
+| Lanzhou, China              | <2009-08-31>--<2009-09-04> |         |
+| Alushta, Ukraine            | <2011-09-12>--<2011-09-16> |         |
+| Mürren, Switzerland         | <2013-06-10>--<2013-06-14> |         |
+| Newport News, Virginia, USA | <2015-09-28>--<2015-10-02> |         |
+| Bonn, Germany               | <2017-09-18>--<2017-09-21> |         |
+| Novosibirsk, Russian        | <2019-09-23>--<2019-09-27> |         |
+| Novosibirsk, Russian        | <2021-11-01>--<2021-11-05> |         |
+| Montreux, Switzerland       | <2023-10-08>--<2023-10-14> |         |
+
+
+** Int. Conf. on Cyclotrons and their Applications
+#+NAME: CYCLOTRONS
+| Venue                       | Date                         | Editors |
+|-----------------------------+------------------------------+---------|
+| Sea Island, Georgia, USA    | <1959-02-02>--<1959-02-04> |         |
+| Geneva, Switzerland         | <1963-04-23>--<1963-04-26> |         |
+| Gatlinburg, Tennessee, USA  | <1966-05-02>--<1966-05-05> |         |
+| Oxford, United Kingdom      | <1969-09-17>--<1969-09-20> |         |
+| Vancouver, Canada           | <1972-07-18>--<1972-07-21> |         |
+| Zürich, Switzerland         | <1975-08-19>--<1975-08-22> |         |
+| Bloomington, Indiana, USA   | <1978-09-18>--<1978-09-21> |         |
+| Caen, France                | <1981-09-07>--<1981-09-10> |         |
+| East Lansing, Michigan, USA | <1984-04-30>--<1984-05-03> |         |
+| Tokyo, Japan                | <1986-10-13>--<1986-10-17> |         |
+| Berlin, Germany             | <1989-05-08>--<1989-05-12> |         |
+| Vancouver, BC, Canada       | <1992-07-06>--<1992-07-10> |         |
+| Cape Town, South Africa     | <1995-10-08>--<1995-10-13> |         |
+| Caen, Franc                 | <1998-06-14>--<1998-06-19> |         |
+| East Lansing, Michigan, USA | <2001-05-13>--<2001-05-17> |         |
+| Tokyo, Japan                | <2004-10-18>--<2004-10-22> |         |
+| Giardini Naxos, Italy       | <2007-10-01>--<2007-10-05> |         |
+| Lanzhou, China              | <2010-09-06>--<2010-09-10> |         |
+| Vancouver, BC, Canada       | <2013-09-16>--<2013-09-20> |         |
+| Zürich, Switzerland         | <2016-09-11>--<2016-09-16> |         |
+| Cape Town, South Africa     | <2019-09-22>--<2019-09-27> |         |
+| Beijing, China              | <2022-12-05>--<2022-12-09> |         |
+
+
+** European Workshop on Beam Diagnostics and Instrum. for Particle Accelerators (superseded by [[*Int. Beam Instrum. Conf.][IBIC]])
+#+NAME: DIPAC
+| Venue              | Date                         | Editors |
+|--------------------+------------------------------+---------|
+| Chester, UK        | <1999-05-16>--<1999-05-18> |         |
+| Grenoble, France   | <2001-05-13>--<2001-05-15> |         |
+| Mainz,  Germany    | <2003-05-05>--<2003-05-07> |         |
+| Lyon, France       | <2005-06-06>--<2005-06-08> |         |
+| Venice, Italy      | <2007-05-20>--<2007-05-23> |         |
+| Basel, Switzerland | <2009-05-25>--<2009-05-27> |         |
+| Hamburg, Germany   | <2011-05-16>--<2011-05-18> |         |
+
+
+** Int. Workshop on ECR Ion Source
+#+NAME: ECRIS
+| Venue                   | Date                         | Editors |
+|-------------------------+------------------------------+---------|
+| Chicago, Illinois, USA  | <2008-09-15>--<2008-09-18> |         |
+| Grenoble, France        | <2010-08-23>--<2010-08-26> |         |
+| Sydney, Australia       | <2012-09-25>--<2012-09-28> |         |
+| Nizhny Novgorod, Russia | <2014-08-24>--<2014-08-28> |         |
+| Busan, Korea            | <2016-08-28>--<2016-09-01> |         |
+| Catania, Italy          | <2018-09-10>--<2018-09-14> |         |
+| East Lansing, MI, USA   | <2020-09-28>--<2020-09-30> |         |
+| Darmstadt, Germany      | <2024-09-15>--<2024-09-19> |         |
+
+
+** European Particle Accelerator Conf. (superseded by [[*Int. Particle Accelerator Conf.][IPAC]])
+#+NAME: EPAC
+| Venue                | Date                         | Editors |
+|----------------------+------------------------------+---------|
+| Rome, Italy          | <1988-06-07>--<1988-06-11> |         |
+| Nice, France         | <1990-06-12>--<1990-06-16> |         |
+| Berlin, Germany      | <1992-03-24>--<1992-03-28> |         |
+| London, England      | <1994-06-27>--<1994-07-01> |         |
+| Sitges, Spain        | <1996-06-10>--<1996-06-14> |         |
+| Stockholm, Sweden    | <1998-06-22>--<1998-06-26> |         |
+| Vienna, Austria      | <2000-06-26>--<2000-06-30> |         |
+| Paris, France        | <2002-06-03>--<2002-06-07> |         |
+| Lucerne, Switzerland | <2004-07-05>--<2004-07-09> |         |
+| Edinburgh, UK        | <2006-06-26>--<2006-06-30> |         |
+| Genoa, Italy         | <2008-06-23>--<2008-06-27> |         |
+
+
+** Int. Free-Electron Laser Conf.
+#+NAME: FEL
+| Venue                      | Date                         | Editors |
+|----------------------------+------------------------------+---------|
+| Trieste, Italy             | <2004-08-29>--<2004-09-03> |         |
+| Palo Alto, California, USA | <2005-08-21>--<2005-08-26> |         |
+| Berlin, Germany            | <2006-08-27>--<2006-09-01> |         |
+| Novosibirsk, Russia        | <2007-08-26>--<2007-08-31> |         |
+| Gyeongju, Korea            | <2008-08-24>--<2008-08-29> |         |
+| Liverpool, UK              | <2009-08-23>--<2009-08-28> |         |
+| Malmö, Sweden              | <2010-08-23>--<2010-08-27> |         |
+| Shanghai, China            | <2011-08-22>--<2011-08-26> |         |
+| Nara, Japan                | <2012-08-26>--<2012-08-31> |         |
+| Manhattan, NY, USA         | <2013-08-26>--<2013-08-30> |         |
+| Basel, Switzerland         | <2014-08-25>--<2014-08-29> |         |
+| Daejeon, Korea             | <2015-08-23>--<2015-08-28> |         |
+| Santa Fe, NM, USA          | <2017-08-20>--<2017-08-25> |         |
+| Hamburg, Germany           | <2019-08-26>--<2019-08-30> |         |
+| Trieste, Italy             | <2022-08-22>--<2022-08-26> |         |
+| Warsaw, Poland             | <2024-08-19>--<2024-08-23> |         |
+
+
+** Int. Conf. on Heavy Ion Accelerator Technology
+#+NAME: HIAT
+| Venue                 | Date                         | Editors |
+|-----------------------+------------------------------+---------|
+| Venice, Italy         | <2009-06-08>--<2009-06-12> |         |
+| Chicago, IL, USA      | <2012-06-18>--<2012-06-21> |         |
+| Yokohama, Japan       | <2015-09-07>--<2015-09-11> |         |
+| Lanzhou, China        | <2018-10-22>--<2018-10-26> |         |
+| Darmstadt, Germany    | <2022-06-27>--<2022-07-01> |         |
+| East Lansing, MI, USA | <2025-06-22>--<2025-06-27> |         |
+
+
+** Int. Beam Instrum. Conf.
+#+NAME: IBIC
+| Venue                 | Date                         | Editors |
+|-----------------------+------------------------------+---------|
+| Tsukuba, Japan        | <2012-10-01>--<2012-10-04> |         |
+| Oxford, UK            | <2013-09-16>--<2013-09-19> |         |
+| Monterey, CA, USA     | <2014-09-14>--<2014-09-18> |         |
+| Melbourne, Australia  | <2015-09-13>--<2015-09-17> |         |
+| Barcelona, Spain      | <2016-09-11>--<2016-09-15> |         |
+| Grand Rapids, MI, USA | <2017-08-20>--<2017-08-24> |         |
+| Shanghai, China       | <2018-09-09>--<2018-09-13> |         |
+| Malmö, Sweden         | <2019-09-08>--<2019-09-12> |         |
+| Santos, Brazil        | <2020-09-14>--<2020-09-18> |         |
+| Pohang, Korea         | <2021-09-13>--<2021-09-17> |         |
+| Kraków, Poland        | <2022-09-11>--<2022-09-15> |         |
+| Saskatoon, Canada     | <2023-09-10>--<2023-09-14> |         |
+| Beijing, China        | <2024-09-09>--<2024-09-13> |         |
+| Liverpool, UK         | <2025-09-07>--<2025-09-11> |         |
+
+
+** Int. Conf. on Accelerator and Large Experimental Physics Control Systems
+#+NAME: ICALEPCS
+| Venue                            | Date                         | Editors |
+|----------------------------------+------------------------------+---------|
+| Tsukuba, Japan                   | <1991-11-11>--<1991-11-15> |         |
+| Trieste, Italy                   | <1999-10-04>--<1999-10-08> |         |
+| San Jose, California, USA        | <2001-11-27>--<2001-11-30> |         |
+| Gyeongju, Korea                  | <2003-10-13>--<2003-10-17> |         |
+| Geneva, Switzerland              | <2005-10-10>--<2005-10-14> |         |
+| Knoxville, Tennessee, USA        | <2007-10-15>--<2007-10-19> |         |
+| Kobe, Japan                      | <2009-10-12>--<2009-10-16> |         |
+| Grenoble, France                 | <2011-10-10>--<2011-10-14> |         |
+| San Francisco, CA, USA           | <2013-10-06>--<2013-10-11> |         |
+| Melbourne, Australia             | <2015-10-17>--<2015-10-23> |         |
+| Barcelona, Spain                 | <2017-10-08>--<2017-10-13> |         |
+| Brooklyn, New York City, NY, USA | <2019-10-07>--<2019-10-11> |         |
+| Shanghai, China                  | <2021-10-14>--<2021-10-22> |         |
+| Cape Town, South Africa          | <2023-10-07>--<2023-10-13> |         |
+| Chicago, IL, USA                 | <2025-09-20>--<2025-09-26> |         |
+
+
+** Int. Computational Accelerator Physics Conf.
+#+NAME: ICAP
+| Venue                         | Date                         | Editors |
+|-------------------------------+------------------------------+---------|
+| Chamonix, France              | <2006-10-02>--<2006-10-06> |         |
+| San Francisco, California, US | <2009-08-31>--<2009-09-04> |         |
+| Rostock-Warnemünde, Germany   | <2012-08-19>--<2012-08-24> |         |
+| Shanghai, China               | <2015-10-12>--<2015-10-16> |         |
+| Key West, FL, USA             | <2018-10-20>--<2018-10-24> |         |
+
+
+
+** Int. Particle Accelerator Conf.
+#+NAME: IPAC
+| Venue                       | Date                         | Editors |
+|-----------------------------+------------------------------+---------|
+| Kyoto, Japan                | <2010-05-23>--<2010-05-28> |         |
+| San Sebastián, Spain        | <2011-09-04>--<2011-09-09> |         |
+| New Orleans, Louisiana, USA | <2012-05-20>--<2012-05-25> |         |
+| Shanghai, China             | <2013-05-12>--<2013-05-17> |         |
+| Dresden, Germany            | <2014-06-15>--<2014-06-20> |         |
+| Richmond, VA, USA           | <2015-05-03>--<2015-05-08> |         |
+| Busan, Korea                | <2016-08-08>--<2016-05-13> |         |
+| Copenhagen, Denmark         | <2017-05-14>--<2017-05-19> |         |
+| Vancouver, Canada           | <2018-04-29>--<2018-05-04> |         |
+| Melbourne, Australia        | <2019-05-19>--<2019-05-24> |         |
+| Caen, France                | <2020-05-10>--<2020-05-15> |         |
+| Campinas, Brazil            | <2021-05-24>--<2021-05-28> |         |
+| Bangkok, Thailand           | <2022-06-12>--<2022-06-17> |         |
+| Venice, Italy               | <2023-05-07>--<2023-05-12> |         |
+| Nashville, TN, USA          | <2024-05-18>--<2024-05-24> |         |
+| Taipei, Taiwan              | <2025-06-01>--<2025-06-06> |         |
+
+
+** Int. Linear Accelerator Conf.
+#+NAME: LINAC
+| Venue                              | Date                         | Editors |
+|------------------------------------+------------------------------+---------|
+| Upton, Long Island, New York, USA  | <1961-04-01>--<1961-04-14> |         |
+| Upton, Long Island, New York, USA  | <1962-08-20>--<1962-08-24> |         |
+| New Haven, Connecticut, USA        | <1963-10-21>--<1963-10-25> |         |
+| Madison, Wisconsin, USA            | <1964-07-20>--<1964-07-24> |         |
+| Los Alamos, New Mexico, USA        | <1966-10-03>--<1966-10-07> |         |
+| Upton, Long Island, New York, USA  | <1968-05-20>--<1968-05-24> |         |
+| Batavia, Illinois, USA             | <1970-09-28>--<1970-10-02> |         |
+| Los Alamos, New Mexico, USA        | <1972-10-10>--<1972-10-13> |         |
+| Chalk River, Ontario, Canada       | <1976-09-14>--<1976-09-17> |         |
+| Montauk, New York, USA             | <1979-09-10>--<1979-09-14> |         |
+| Santa Fe, New Mexico, USA          | <1981-10-19>--<1981-10-23> |         |
+| Seeheim, Germany                   | <1984-05-07>--<1984-05-11> |         |
+| Stanford, California, USA          | <1986-06-02>--<1986-06-06> |         |
+| Newport News, Virginia, USA        | <1988-10-03>--<1988-10-07> |         |
+| Albuquerque, New Mexico, USA       | <1990-09-10>--<1990-09-14> |         |
+| Ottawa, Ontario, Canada            | <1992-08-24>--<1992-08-28> |         |
+| Tsukuba, Japan                     | <1994-08-21>--<1994-08-26> |         |
+| Geneva, Switzerland                | <1996-08-26>--<1996-08-30> |         |
+| Chicago, Illinois, USA             | <1998-08-23>--<1998-08-28> |         |
+| Monterey, CA, USA                  | <2000-08-21>--<2000-08-25> |         |
+| Gyeongju, Korea                    | <2002-08-19>--<2002-08-23> |         |
+| Lübeck, Germany                    | <2004-08-16>--<2004-08-20> |         |
+| Knoxville, Tennessee USA           | <2006-08-21>--<2006-08-25> |         |
+| Victoria, British Columbia, Canada | <2008-09-29>--<2008-10-03> |         |
+| Tsukuba, Japan                     | <2010-09-12>--<2010-09-17> |         |
+| Tel Aviv, Israel                   | <2012-09-09>--<2012-09-14> |         |
+| Geneva, Switzerland                | <2014-08-31>--<2014-09-05> |         |
+| East Lansing, MI, USA              | <2016-09-25>--<2016-09-30> |         |
+| Beijing, China                     | <2018-09-16>--<2018-09-21> |         |
+| Liverpool, UK                      | <2020-09-01>--<2020-09-04> |         |
+| Liverpool, UK                      | <2022-08-28>--<2022-09-02> |         |
+| Chicago, IL, USA                   | <2024-08-25>--<2024-08-30> |         |
+
+
+** Int. Conf. on Mechanical Engineering Design of Synchrotron Radiation Equipment and Instrum.
+#+NAME: MEDSI
+| Venue            | Date                         | Editors |
+|------------------+------------------------------+---------|
+| Barcelona, Spain | <2016-09-11>--<2016-09-16> |         |
+| Paris, France    | <2018-06-25>--<2018-06-29> |         |
+| Chicago, IL, USA | <2021-07-26>--<2021-07-29> |         |
+| Beijing, China   | <2023-11-06>--<2023-11-10> |         |
+| Lund, Sweden     | <2025-09-15>--<2025-09-19> |         |
+
+
+** North American Particle Accelerator Conf.
+#+NAME: NAPAC
+| Venue                | Date                         | Editors |
+|----------------------+------------------------------+---------|
+| New York, NY, USA    | <2011-03-28>--<2011-04-01> |         |
+| Pasadena, CA, USA    | <2013-09-29>--<2013-10-04> |         |
+| Chicago, IL, USA     | <2016-10-09>--<2016-10-14> |         |
+| Lansing, MI, USA     | <2019-09-02>--<2019-09-06> |         |
+| Albuquerque, NM, USA | <2022-08-07>--<2022-08-12> |         |
+
+
+** Particle Accelerator Conf. (superseded by [[*North American Particle Accelerator Conf.][NAPAC]])
+#+NAME: PAC
+| Venue                               | Date                         | Editors |
+|-------------------------------------+------------------------------+---------|
+| Washington D.C., USA                | <1965-03-10>--<1965-03-12> |         |
+| Washington D.C., USA                | <1967-03-01>--<1967-03-03> |         |
+| Washington D.C., USA                | <1969-03-05>--<1969-03-07> |         |
+| Chicago, IL, USA                    | <1971-03-01>--<1971-03-03> |         |
+| San Francisco, CA, USA              | <1973-03-05>--<1973-03-07> |         |
+| Washington D.C., USA                | <1975-03-12>--<1975-03-14> |         |
+| Chicago, IL, USA                    | <1977-03-16>--<1977-03-18> |         |
+| San Francisco, CA, USA              | <1979-03-12>--<1979-03-14> |         |
+| Washington D.C., USA                | <1981-03-11>--<1981-03-13> |         |
+| Santa Fe, New Mexico, USA           | <1983-03-21>--<1983-03-23> |         |
+| Vancouver, BC, Canada               | <1985-03-13>--<1985-03-16> |         |
+| Washington D.C., USA                | <1987-03-16>--<1987-03-19> |         |
+| Chicago, IL, USA                    | <1989-03-20>--<1989-03-23> |         |
+| San Francisco, CA, USA              | <1991-05-06>--<1991-05-09> |         |
+| Washington D.C., USA                | <1993-05-17>--<1993-05-20> |         |
+| Dallas, Texas, USA                  | <1995-05-01>--<1995-05-05> |         |
+| Vancouver, B.C., Canada             | <1997-05-12>--<1997-05-16> |         |
+| New York City, New York, USA        | <1999-03-29>--<1999-04-02> |         |
+| Chicago, Illinois, USA              | <2001-06-18>--<2001-06-22> |         |
+| Portland, Oregon, USA               | <2003-05-12>--<2003-05-16> |         |
+| Knoxville, Tennessee, USA           | <2005-05-16>--<2005-05-20> |         |
+| Albuquerque, New Mexico, USA        | <2007-06-25>--<2007-06-29> |         |
+| Vancouver, British Columbia, Canada | <2009-05-04>--<2009-05-08> |         |
+
+
+** Int. Workshop on Emerging Techn. and Scientific Facilities Controls
+#+NAME: PCaPAC
+| Venue                           | Date                         | Editors |
+|---------------------------------+------------------------------+---------|
+| Ljubljana, Slovenia             | <2008-10-20>--<2008-10-23> |         |
+| Saskatoon, Saskatchewan, Canada | <2010-10-06>--<2010-10-08> |         |
+| Kolkata, India                  | <2012-12-04>--<2012-12-07> |         |
+| Karlsruhe, Germany              | <2014-10-14>--<2014-10-17> |         |
+| Campinas, Brazil                | <2016-10-25>--<2016-10-28> |         |
+| Hsinchu, Taiwan                 | <2018-10-16>--<2018-10-19> |         |
+| Dolní Brežany, Czech Republic   | <2022-10-04>--<2022-10-07> |         |
+
+
+** Russian Particle Accelerator Conf. (not in JACoW since the Russia's war in Ukraine on Feb. 24, 2022)
+#+NAME: RuPAC
+| Venue                    | Date                         | Editors |
+|--------------------------+------------------------------+---------|
+| Dubna, Russia            | <2004-10-04>--<2004-10-08> |         |
+| Novosibirsk, Russia      | <2006-09-10>--<2006-09-14> |         |
+| Zvenigorod, Russia       | <2008-09-28>--<2008-10-03> |         |
+| Protvino, Russia         | <2010-09-27>--<2010-10-01> |         |
+| Saint-Petersburg, Russia | <2012-09-24>--<2012-09-28> |         |
+| Obninsk, Russia          | <2014-10-06>--<2014-10-10> |         |
+| Saint-Petersburg, Russia | <2016-11-21>--<2016-11-25> |         |
+| Protvino, Russia         | <2018-10-01>--<2018-10-05> |         |
+| Alushta, Russia          | <2021-09-27>--<2021-10-01> |         |
+
+
+** Symposium on Accelerator Physics
+#+NAME: SAP
+| Venue                | Date                         | Editors |
+|----------------------+------------------------------+---------|
+| Lanzhou, China       | <2014-08-13>--<2014-08-15> |         |
+| Jishou, Hunan, China | <2017-08-28>--<2017-08-30> |         |
+
+
+** Int. Conf. on RF Superconductivity
+#+NAME: SRF
+| Venue                                      | Date                         | Editors |
+|--------------------------------------------+------------------------------+---------|
+| Karlsruhe, Germany                         | <1980-07-02>--<1980-07-04> |         |
+| Geneva, Switzerland                        | <1984-07-23>--<1984-07-27> |         |
+| Argonne National Laboratory, Illinois, USA | <1987-09-14>--<1987-09-18> |         |
+| KEK, Tsukuba, Japan                        | <1989-08-14>--<1989-08-18> |         |
+| DESY, Hamburg, Germany                     | <1991-08-19>--<1991-08-23> |         |
+| CEBAF, Newport News, Virginia, USA         | <1993-10-04>--<1993-10-08> |         |
+| Gif-sur-Yvette, France                     | <1995-10-17>--<1995-10-20> |         |
+| Abano Terme (Padova), Italy                | <1997-10-06>--<1997-10-10> |         |
+| Santa Fe, New Mexico, USA                  | <1999-11-01>--<1999-11-05> |         |
+| Tsukuba, Ibaraki, Japan                    | <2001-09-06>--<2001-09-11> |         |
+| Lübeck/Travemünder, Germany                | <2003-09-08>--<2003-09-12> |         |
+| Cornell University, Ithaca, New York, USA  | <2005-07-10>--<2005-07-15> |         |
+| Peking Univ., Beijing, China               | <2007-10-14>--<2007-10-19> |         |
+| Berlin, Germany                            | <2009-09-20>--<2009-09-25> |         |
+| Chicago, IL, USA                           | <2011-07-25>--<2011-07-29> |         |
+| Paris, France                              | <2013-09-23>--<2013-09-27> |         |
+| Whistler, BC, Canada                       | <2015-09-13>--<2015-09-18> |         |
+| Lanzhou, China                             | <2017-07-17>--<2017-07-21> |         |
+| Dresden, Germany                           | <2019-06-30>--<2019-07-05> |         |
+| East Lansing, MI, USA                      | <2021-06-27>--<2021-07-02> |         |
+| Grand Rapids, MI, USA                      | <2023-06-25>--<2023-06-30> |         |
+| Tokyo, japan                               | <2025-09-21>--<2025-09-26> |         |
+
+
+* Appendix
+
+I want to export the database to various formats:
+- =.bib= which can be used by authors
+- =.org= file which will give a tree view of the events and can be further exported
+- =.html= with =.svg= calendars so I can have a brief check on the events
+
+
+This appendix contains only the EMACS =elisp= snippets so you can customize the output by modifying them.
+
+** Write to BibTeX
+
+The reason I don’t use =if (> (length ...) 1= is because the greater-than symbol is regarded as a closing brace in source code blocks.
+#+begin_src emacs-lisp :results silent
+  (defun print-bib (event venue eventdate)
+    "Print bibtex."
+    (let* ((event-date (split-string eventdate "--"))
+           (start-date (car event-date))
+           (end-date (cadr event-date))
+           (event-year (format-time-string "%Y" (org-read-date nil t start-date nil)))
+           (event-year-short  (substring event-year -2 nil))
+           (event-start (org-read-date nil nil start-date nil))
+           (event-end (org-read-date nil nil end-date nil))
+           )
+      (concat
+       "@proceedings{" event event-year ",\n"
+       "  title      = \"Proc. " event "’" event-year-short "\",\n"
+       "  eventtitle = \""       event "’" event-year-short "\",\n"
+       "  venue      = \""       venue "\",\n"
+       "  eventdate  = \""       event-start "/" event-end "\",\n"
+       "}" "\n")))
+
+  (defun table-to-bibtex (ev tbl)
+    "Write table to BibTeX."
+    (if (and (car tbl) (cadr tbl))
+        (concat (print-bib ev (car tbl) (cadr tbl))
+                (table-to-bibtex ev (cddr tbl)))
+      nil)
+    )
+#+end_src
+
+** Write to Org
+
+#+begin_src emacs-lisp :results silent
+  (defun print-org (event venue eventdate ev-alist)
+    "Print Org."
+    (let* ((event-date (split-string eventdate "--"))
+           (start-date (car event-date))
+           (end-date (cadr event-date))
+           (event-year (format-time-string "%Y" (org-read-date nil t start-date nil)))
+           (event-year-short  (substring event-year -2 nil))
+           (event-start (org-read-date nil nil start-date nil))
+           (event-end (org-read-date nil nil end-date nil))
+           (event-start-epoch (car (org-read-date nil t start-date nil)))
+           (event-key (format-time-string "%04Y-%02m-%02d"  (org-read-date nil t start-date nil)))
+           (event-val
+            (concat
+             "\n**** " event "’" event-year-short " :" event ":\n"
+             ":PROPERTIES:\n"
+             ":VENUE: " venue "\n"
+             ":EVENTDATE: " eventdate "\n"
+             ":END:\n\n"
+             ))
+           )
+      (add-to-list ev-alist (cons event-key event-val))
+      ))
+
+  (defun table-to-org (ev tbl ev-alist)
+    "Write table to Org."
+    (if (and (car tbl) (cadr tbl))
+        (progn
+          (print-org ev (car tbl) (cadr tbl) ev-alist)
+          (table-to-org ev (cddr tbl) ev-alist))))
+#+end_src
+
+** Write to HTML
+
+#+begin_src emacs-lisp :results silent
+  (defun print-html (event venue eventdate ev-alist)
+    "Print Org."
+    (let* ((event-date (split-string eventdate "--"))
+           (start-date (car event-date))
+           (end-date (cadr event-date))
+           (event-year (format-time-string "%Y" (org-read-date nil t start-date nil)))
+           (event-year-short  (substring event-year -2 nil))
+           (event-start (org-read-date nil nil start-date nil))
+           (event-end (org-read-date nil nil end-date nil))
+           (event-start-epoch (car (org-read-date nil t start-date nil)))
+           (event-key (format-time-string "%04Y-%02m-%02d"  (org-read-date nil t start-date nil)))
+           (event-val
+            (list event venue event-start event-end))
+           )
+      (add-to-list ev-alist (cons event-key event-val))
+      ))
+
+  (defun table-to-html (ev tbl ev-alist)
+    "Write table to Org."
+    (if (and (car tbl) (cadr tbl))
+        (progn
+          (print-html ev (car tbl) (cadr tbl) ev-alist)
+          (table-to-html ev (cddr tbl) ev-alist))))
+
+  ;;(defun draw-year-to-svg (current-year svg &optional size)
+  ;;  "Draw calendar to svg obj."
+  ;;  (let* (
+  ;;         (day-wd (or size 50))
+  ;;         (month-wd (* 7 day-wd))
+  ;;         (month-gap (/ day-wd 3))
+  ;;         (month-pos (lambda (n) (+ (* n month-wd) (* (1+ n) month-gap))))
+  ;;         (day-font-size (/ day-wd 4.0))
+  ;;         (month-font-size (* day-wd 4))
+  ;;         )
+  ;;    ;; Calendar frame
+  ;;    (svg-rectangle svg 0 0 (funcall month-pos 4) (funcall month-pos 3) :fill "transparent" :stroke "green")
+  ;;    (dotimes (i 3)
+  ;;      (dotimes (j 4)
+  ;;        (let (
+  ;;              ;; (x0,y0): top-left anchor
+  ;;              (x0 (funcall month-pos j))
+  ;;              (y0 (funcall month-pos i))
+  ;;              (current-month (+ 1 j (* i 4)))
+  ;;              )
+  ;;          ;; 12 Months
+  ;;          (svg-rectangle svg x0 y0 month-wd month-wd :fill-opacity 0 :stroke "lightblue")
+  ;;          (svg-text svg (number-to-string current-month) :font-size month-font-size :x (+ x0 (/ month-wd 2)) :y (+ y0 (/ month-wd 2)) :class "month-text")
+  ;;          ;; For each month:
+  ;;          ;;   1st day to 1st of next month (not included)
+  ;;          (let* (
+  ;;                 (first-weekday
+  ;;                  (string-to-number
+  ;;                   (format-time-string
+  ;;                    "%u"
+  ;;                    (org-read-date nil t (format "%04d-%02d-01" current-year current-month)))))
+  ;;                 (first-day   (org-time-string-to-absolute (format "%04d-%02d-01" current-year current-month)))
+  ;;                 (last-day    (org-time-string-to-absolute (format "%04d-%02d-01" current-year (1+ current-month))))
+  ;;                 (current-day (org-time-string-to-absolute (format "%04d-%02d-01" current-year current-month)))
+  ;;                 (ii 0)
+  ;;                 ;; (x1,y1): top-right anchor of
+  ;;                 ;;   the first cell (which is Monday)
+  ;;                 ;; 1st day of the month is
+  ;;                 ;;   the first cell shifted to the left by `first-weekday' - 1
+  ;;                 (x1 x0)
+  ;;                 (y1 (+ y0 day-wd))
+  ;;                 xx
+  ;;                 yy
+  ;;                 is-weekend
+  ;;                 )
+  ;;            (while (< current-day last-day)
+  ;;              (setq xx (+ x1 (* (% (+ ii first-weekday -1) 7) day-wd))
+  ;;                    yy (+ y1 (* (/ (+ ii first-weekday -1) 7) day-wd))
+  ;;                    is-weekend (cond
+  ;;                                ((= (% (+ ii first-weekday) 7) 6) "weekend") ;; Saturday
+  ;;                                ((= (% (+ ii first-weekday) 7) 0) "weekend") ;; Sunday
+  ;;                                (t "workday") ;; workday
+  ;;                                )
+  ;;                    )
+  ;;              (svg-rectangle svg xx yy day-wd day-wd :stroke "lightgrey" :class (concat is-weekend "-frame"))
+  ;;              (svg-text svg (format "%02s" (1+ ii)) :font-size day-font-size :x (+ xx day-wd) :y yy :class "day-text")
+  ;;              (setq current-day (1+ current-day)
+  ;;                    ii          (1+ ii)
+  ;;                    )))
+  ;;          )))
+  ;;    ))
+
+  (defun eventdate-to-shape (bev eev)
+    "Calculate the shape of the event in a month."
+    (let* ((start-days (org-time-string-to-absolute bev))
+           (end-days   (org-time-string-to-absolute eev))
+           (start-date (calendar-gregorian-from-absolute start-days))
+           (current-year  (elt start-date 2))
+           (current-month (elt start-date 0))
+           (first-days (org-time-string-to-absolute (format "%04d-%02d-01" current-year current-month)))
+           (first-week      (elt (calendar-iso-from-absolute first-days) 0))
+           (start-week   (- (elt (calendar-iso-from-absolute start-days) 0) first-week))
+           (end-week     (- (elt (calendar-iso-from-absolute end-days  ) 0) first-week))
+           (start-day (% (+ (elt (calendar-iso-from-absolute start-days) 1) 6) 7))
+           (end-day   (% (+ (elt (calendar-iso-from-absolute end-days  ) 1) 6) 7))
+           ev-shape
+           )
+      (while (< start-week end-week) ;;)
+        (push (list start-day start-week (- 7 start-day)) ev-shape)
+        (setq start-week (1+ start-week) ;; move pointer to next week Monday
+              start-day  0)
+        )
+      (push (list start-day start-week (+ end-day 1)) ev-shape)
+      )
+    )
+#+end_src
+
+** JACoW Series
+
+#+begin_src emacs-lisp :results silent
+  (setq jacow-list '("eeFACT" "eCloud" "ERL" "FLS" "HB" "HF" "APAC" "BIW" "COOL" "CYCLOTRONS" "DIPAC" "ECRIS" "EPAC" "FEL" "HIAT" "IBIC" "ICALEPCS" "ICAP" "IPAC" "LINAC" "MEDSI" "NAPAC" "PAC" "PCaPAC" "RuPAC" "SAP" "SRF"))
+#+end_src
+
+#+begin_src emacs-lisp :results silent
+  (setq jacow-color-list '("blueviolet" "crimson" "darkcyan" "deeppink" "dimgray" "forestgreen" "indianred" "lightsalmon" "olive" "orange"))
+#+end_src
+
+** [[file:texmf/bibtex/bib/biblatex-jacow/jacow-conferences.bib][.bib file]]
+
+#+begin_src emacs-lisp :results silent
+  (let* ((dir "texmf/bibtex/bib/biblatex-jacow")
+         (file-name (concat dir "/jacow-conferences.bib")))
+    (when (not (file-exists-p dir))
+      (make-directory dir t))
+    (when (file-exists-p file-name)
+      (delete-file file-name))
+    (append-to-file
+     (mapconcat
+      (lambda (x)
+        (let ((series-info (mapcar #'org-no-properties (org-table-get-remote-range x "@I$1..@>$2"))))
+          (table-to-bibtex x series-info)))
+      jacow-list "\n\n\n")
+     nil file-name))
+#+end_src
+
+
+** [[file:./jacow-events.org][.org file]]
+
+#+begin_src emacs-lisp :results silent
+  (let* ((file-name "./jacow-events.org"))
+    (when (file-exists-p file-name)
+      (delete-file file-name))
+    (let (events-alist)
+      (dolist (series jacow-list events-alist)
+        (table-to-org series (mapcar #'org-no-properties (org-table-get-remote-range series "@I$1..@>$2")) 'events-alist))
+      (setq events-alist (sort events-alist (lambda (a b) (string-lessp (car a) (car b)))))
+      (let (current-year)
+        (dolist (my-event events-alist)
+          (if (not (string-equal current-year (substring (car my-event) 0 4)))
+              (progn
+                (setq current-year (substring (car my-event) 0 4))
+                (append-to-file
+                 (concat "*** " current-year " :" current-year ":\n\n")
+                 nil file-name)))
+          (append-to-file (cdr my-event) nil file-name)))))
+#+end_src
+
+
+** .html file
+
+
+#+begin_src css :tangle calendar.css
+  @import url(https://fonts.googleapis.com/css2?family=Zen+Dots);
+  @import url(https://fonts.googleapis.com/css2?family=Barlow+Condensed);
+  
+  text { 
+      font-family:'Barlow Condensed';
+  }
+
+  .month-text {font-family:'Zen Dots'; font-weight:bold; text-anchor:middle; dominant-baseline:middle; stroke:black; stroke-width:0; fill:pink; }
+  .day-text   {font-family:'Zen Dots'; font-weight:normal; text-anchor:end; dominant-baseline:hanging; stroke:black; stroke-width:0; fill:black;}
+  .event-text {font-family:'Barlow Condensed'; font-weight:bold; text-anchor:start; dominant-baseline:middle;  stroke:white; stroke-width:0.1; fill:white;}
+
+  .day-frame     {stroke:lightgrey; stroke-width:2; stroke-dasharray:10 5; fill:white; fill-opacity:0;  }
+  .workday-frame {stroke:lightgrey;                                        fill:white; fill-opacity:0.1;}
+  .weekend-frame {stroke:lightgrey; stroke-width:0; stroke-opacity:0;      fill:grey;  fill-opacity:0.1;}
+  .month-frame   {stroke:orange;    stroke-width:3; stroke-opacity:0.3;    fill:white; fill-opacity:0;  }
+  .month-box     {stroke:orange;    stroke-width:0; stroke-opacity:0;      fill:wheat; fill-opacity:0.1;}
+#+end_src
+
+#+begin_src emacs-lisp :results output :wrap example
+  (let* ((file-name "./jacow-events.html")
+         my-html
+         ;;(css-file  "./calendar.css")
+         ;;(js-file   "./calendar.js")
+         (years-list nil))
+    (setq my-html '(html
+                    (head
+                     (title "hello")
+                     (meta :something "hi"))))
+    (nconc my-html '((body (h1 "test"))))
+    (require 'svg)
+    (require 'xmlgen)
+    (when (file-exists-p file-name)
+      (delete-file file-name))
+    (let (events-alist)
+      (dolist (series jacow-list events-alist)
+        (table-to-html series (mapcar #'org-no-properties (org-table-get-remote-range series "@I$1..@>$2")) 'events-alist))
+      (setq events-alist (sort events-alist (lambda (a b) (string-lessp (car a) (car b)))))
+      (let* (this-year
+             event-info
+             (event-start "")
+             (event-end "")
+             svg-file
+             svg
+             (cell-size 50)
+             (month-wd (* 7 cell-size))
+             (month-gap (/ cell-size 3))
+             (month-pos (lambda (n) (+ (* n month-wd) (* (1+ n) month-gap))))
+             (date-pos (lambda (date-str)
+                         (let* (
+                                (the-current-days   (org-time-string-to-absolute date-str))
+                                ;;(the-current-iso    (calendar-iso-from-absolute       the-current-days))
+                                (the-current-date   (calendar-gregorian-from-absolute the-current-days))
+                                (the-current-year   (elt the-current-date 2))
+                                (the-current-month  (elt the-current-date 0))
+                                (the-current-day    (elt the-current-date 1))
+                                (the-first-iso      (calendar-iso-from-absolute (- the-current-days the-current-day -1)))
+                                (the-current-offset (1+ (% (+ 6 (elt the-first-iso  1)) 7)))
+                                (days-since-monday  (+ the-current-offset the-current-day -1))
+                                )
+                           (list
+                            (% (1- the-current-month) 4) (/ (1- the-current-month) 4) ;; month x,y
+                            (% (1- days-since-monday) 7) (/ (1- days-since-monday) 7) ;; day   x,y
+                            )
+                           )))
+             (day-font-size   (/ cell-size 4.0))
+             (month-font-size (* cell-size 4))
+             (event-priority 1)
+             (event-color 0)
+             )
+        (dolist (my-event events-alist)
+          (setq event-info (cdr my-event))
+          ;; start a new year calendar
+          ;; draw the frame
+          ;; --------
+          (if (not (string-equal this-year (substring (car my-event) 0 4)))
+              (progn
+                (when svg ;; `nil' means we are at the beginning of the list
+                  ;; otherwise, dump `svg' to a file before starting a new one
+                  (with-temp-file svg-file
+                    (set-buffer-multibyte nil)
+                    (svg-print svg)))
+                (setq this-year (substring (car my-event) 0 4))
+                (add-to-list 'years-list this-year)
+                (nconc (nth 2 my-html) `((h2 ,this-year)))
+                (nconc (nth 2 my-html) `((object :data ,(concat this-year ".svg") :type "image/svg+xml" ,this-year)))
+                (setq event-color 1)
+                (setq svg-file  (concat this-year ".svg"))
+                (when (file-exists-p svg-file)
+                  (delete-file svg-file))
+                ;; create svg
+                (setq svg (svg-create (funcall month-pos 4) (funcall month-pos 3) :stroke-width 2))
+                ;; add css
+                (svg-node svg 'link :type "text/css" :rel "stylesheet" :href "calendar.css" :xmlns "http://www.w3.org/1999/xhtml")
+                ;; add js
+                (svg-node svg 'script :type "text/javascript" :href  "calendar.js")
+                ;;(print this-year)
+                ;;(draw-year-to-svg (string-to-number this-year) svg cell-size)
+                ;;
+                ;; Calendar frame
+                (svg-rectangle svg 0 0 (funcall month-pos 4) (funcall month-pos 3) :fill "transparent" :stroke "green")
+                (dotimes (i 3)
+                  (dotimes (j 4)
+                    (let* (
+                           ;; (x0,y0): top-left anchor
+                           (x0 (funcall month-pos j))
+                           (x-min x0)
+                           (x-max (+ x0 (* 7 cell-size)))
+                           (x-mid (+ x0 (* 5 cell-size)))
+                           (y0 (funcall month-pos i))
+                           (current-month (+ 1 j (* i 4)))
+                           (current-year (string-to-number this-year))
+                           )
+                      ;; 12 Months
+                      (svg-rectangle svg x0 y0 month-wd month-wd :class "month-box")
+                      (svg-text svg (number-to-string current-month) :font-size month-font-size :x (+ x0 (/ month-wd 2)) :y (+ y0 (/ month-wd 2)) :class "month-text")
+                      ;; For each month:
+                      ;;   1st day to 1st of next month (not included)
+                      (let* (
+                             (first-weekday
+                              (string-to-number
+                               (format-time-string
+                                "%u"
+                                (org-read-date nil t (format "%04d-%02d-01" current-year current-month)))))
+                             (first-day   (org-time-string-to-absolute (format "%04d-%02d-01" current-year current-month)))
+                             (last-day    (org-time-string-to-absolute (format "%04d-%02d-01" current-year (1+ current-month))))
+                             (current-day (org-time-string-to-absolute (format "%04d-%02d-01" current-year current-month)))
+                             (ii 0)
+                             ;; (x1,y1): top-right anchor of
+                             ;;   the first cell (which is Monday)
+                             ;; 1st day of the month is
+                             ;;   the first cell shifted to the left by `first-weekday' - 1
+                             (x1 x0)
+                             (y1 (+ y0 cell-size))
+                             xx
+                             yy
+                             is-weekend
+                             (p-x0 (+ x0 (* (% (1- first-weekday) 7) cell-size)))
+                             (p-y0 (+ y0 cell-size))
+                             p-x1
+                             p-y1
+                             )
+                        (while (< current-day last-day) ;;)
+                          (setq xx (+ x1 (* (% (+ ii first-weekday -1) 7) cell-size))
+                                yy (+ y1 (* (/ (+ ii first-weekday -1) 7) cell-size))
+                                is-weekend (cond
+                                            ((= (% (+ ii first-weekday) 7) 6) "weekend") ;; Saturday
+                                            ((= (% (+ ii first-weekday) 7) 0) "weekend") ;; Sunday
+                                            (t "workday") ;; workday
+                                            )
+                                )
+                          ;;(svg-rectangle svg xx yy cell-size cell-size :stroke "lightgrey" :class (concat is-weekend "-frame"))
+                          (svg-text svg (format "%02s" (1+ ii)) :font-size day-font-size :x (+ xx cell-size) :y yy :class "day-text")
+                          (setq current-day (1+ current-day)
+                                ii          (1+ ii)
+                                p-x1        (+ xx cell-size)
+                                p-y1        (+ yy cell-size)
+                                ))
+                        (svg-polygon
+                         svg
+                         `((,p-x0  . ,p-y0)
+                           (,x-max . ,p-y0)
+                           (,x-max . ,(- p-y1 cell-size))
+                           (,p-x1  . ,(- p-y1 cell-size))
+                           (,p-x1  . ,p-y1)
+                           (,x-min . ,p-y1)
+                           (,x-min . ,(+ p-y0 cell-size))
+                           (,p-x0  . ,(+ p-y0 cell-size))
+                           )
+                         :class "month-frame"
+                         )
+                        (svg-polygon
+                         svg
+                         `((,(max x-mid p-x0) . ,p-y0)
+                           (,x-max            . ,p-y0)
+                           (,x-max            . ,(- p-y1 cell-size))
+                           (,(max x-mid p-x1) . ,(- p-y1 cell-size))
+                           (,(max x-mid p-x1) . ,p-y1)
+                           (,x-mid            . ,p-y1)
+                           (,x-mid            . ,(+ p-y0 cell-size))
+                           (,(max x-mid p-x0) . ,(+ p-y0 cell-size))
+                           )
+                         :class "weekend-frame"
+                         )
+                        (dotimes (i 6)
+                          (let* ((current-x (+ x-min (* (1+ i) cell-size)))
+                                 (current-y0 (if (< p-x0 current-x) p-y0 (+ p-y0 cell-size)))
+                                 (current-y1 (if (> p-x1 current-x) p-y1 (- p-y1 cell-size)))
+                                 )
+                            (svg-line svg current-x current-y0 current-x current-y1
+                                      :class "day-frame")
+                            )
+                          )
+                        (dotimes (i 5)
+                          (let* ((current-y (+ p-y0 (* (1+ i) cell-size)))
+                                 (current-x0 (if (< (+ p-y0 cell-size) current-y) x-min p-x0))
+                                 (current-x1 (if (> (- p-y1 cell-size) current-y) x-max p-x1))
+                                 )
+                            (if (< current-y p-y1) ;;)
+                                (svg-line svg current-x0 current-y current-x1 current-y
+                                          :class "day-frame")
+                              )
+                            )
+                          )
+                        )
+                      )))
+                ))
+          ;; --------
+          ;; event
+          (setq event-start (caddr event-info))
+          (if (string-lessp event-start event-end)
+              (setq event-priority (1+ event-priority))
+            (setq event-priority 1)
+            )
+          (setq event-color (1+ event-color))
+          (setq event-end (cadddr event-info))
+          ;; (print event-start)
+          ;; (print event-end)
+          (let* (
+                 (date-coord (funcall date-pos event-start))
+                 ;;(event-shape (funcall eventdate-to-shape event-start event-stop))
+                 (m-x0 (funcall month-pos (car   date-coord)))
+                 (m-y0 (funcall month-pos (cadr  date-coord)))
+                 (d-x0 (* (caddr  date-coord) cell-size))
+                 (d-y0 (* (1+ (cadddr date-coord)) cell-size))
+                 (start-days (org-time-string-to-absolute event-start))
+                 (end-days   (org-time-string-to-absolute event-end  ))
+                 (start-week (org-days-to-iso-week start-days))
+                 (end-week   (org-days-to-iso-week end-days  ))
+                 (draw-event-with-background
+                  (lambda (o-x o-y event-shape bg-color)
+                    (dolist (my-event event-shape)
+                      (svg-rectangle
+                       svg
+                       (+ o-x (* cell-size (car my-event))) (+ o-y (* cell-size (cadr my-event))) (* cell-size (caddr my-event)) day-font-size
+                       :fill (nth event-color jacow-color-list)
+                       :rx (/ day-font-size 4.0)
+                       :ry (/ day-font-size 4.0)
+                       )
+                      )
+                    )
+                  )
+                 )
+            ;; (print date-coord)
+            ;; draw event frame
+            ;; --------
+            ;; (if (and (= start-week end-week) (string= (substring event-start 0 7) (substring event-end 0 7))) ;; same year, month, and week
+            ;;     (svg-rectangle
+            ;;      svg
+            ;;      (+ m-x0 d-x0) (+ m-y0 d-y0 (* event-priority day-font-size)) (* cell-size (- end-days start-days -1)) day-font-size
+            ;;      :fill (nth event-color jacow-color-list)
+            ;;      :rx (/ day-font-size 4.0)
+            ;;      :ry (/ day-font-size 4.0)
+            ;;      )
+            ;;   (if (string= (substring event-start 0 7) (substring event-end 0 7)) ;; same year, month
+            ;;       (svg-rectangle
+            ;;        svg
+            ;;        (+ m-x0 d-x0) (+ m-y0 d-y0 (* event-priority day-font-size)) cell-size day-font-size
+            ;;        :fill (nth event-color jacow-color-list)
+            ;;        :rx (/ day-font-size 4.0)
+            ;;        :ry (/ day-font-size 4.0)
+            ;;        )
+            ;;     )
+            ;;   )
+            (dolist (my-event (eventdate-to-shape event-start event-end))
+              (svg-rectangle
+               svg
+               (+ m-x0 (* cell-size (car my-event))) (+ m-y0 cell-size (* event-priority day-font-size) (* cell-size (cadr my-event))) (* cell-size (caddr my-event)) day-font-size
+               :fill (nth event-color jacow-color-list)
+               :rx (/ day-font-size 4.0)
+               :ry (/ day-font-size 4.0)
+               )
+              )
+            ;; --------
+            (svg-text svg (if (and (string= (car event-info) "CYCLOTRONS") (= (caddr date-coord) 6)) "CYC" (car event-info))
+                      :font-size (/ day-font-size 1.2)
+                      :x (+ m-x0 d-x0 (/ day-font-size 2.0))
+                      :y (+ m-y0 d-y0 (* event-priority day-font-size)  (/ day-font-size 2.0))
+                      :class "event-text")
+            )
+          ;; (princ (concat event-start "--" event-end ":\n"))
+          ;; (print (eventdate-to-shape event-start event-end))
+          ;; (prin1 event-priority)
+          ;; (princ ":\n")
+          ;; (prin1 event-info)
+          ;; (princ "\n")
+          )
+        ;;(print (reverse years-list))
+        (with-temp-file svg-file
+          (set-buffer-multibyte nil)
+          (svg-print svg))
+        )
+      ;;(append-to-file (cdr my-event) nil file-name)
+      )
+    (append-to-file
+     (xmlgen my-html)
+     nil file-name)
+    ;;(princ (xmlgen my-html))
+    ;;(print my-html)
+    )
+#+end_src
+
+#+RESULTS:
+#+begin_example
+#+end_example
+
+
+
+
+
+
+[[file:calendar.org][Calendar]]
+
+#+begin_src emacs-lisp :results output
+  (dotimes (i 1)
+          (print "don't worry!"))
+#+end_src
+
+#+RESULTS:
+: 
+: "don't worry!"
+
+
+#+begin_src emacs-lisp :results output
+  (let (test-list)
+    (push [[[1 2 3 4 test-list )
+    (push [[[1 2 3 4]]] test-list )
+    (print test-list)
+    )
+#+end_src
+
+#+RESULTS:
+: 
+: ([[[1 2 3 4]]] [[[1 2 3 4]]])
