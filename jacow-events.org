@@ -1894,6 +1894,13 @@
 :END:
 
 
+**** HB’23 :HB:
+:PROPERTIES:
+:VENUE: CERN, Geneva, Switzerland
+:EVENTDATE: <2023-10-09>--<2023-10-13>
+:END:
+
+
 **** MEDSI’23 :MEDSI:
 :PROPERTIES:
 :VENUE: Beijing, China

@@ -691,7 +691,7 @@ The reason I don’t use =if (> (length ...) 1= is because the greater-than symb
 ** .html file
 
 
-#+begin_src css :tangle calendar.css
+#+begin_src css :tangle css/calendar.css :mkdirp yes
   @import url(https://fonts.googleapis.com/css2?family=Zen+Dots);
   @import url(https://fonts.googleapis.com/css2?family=Barlow+Condensed);
   
@@ -712,19 +712,21 @@ The reason I don’t use =if (> (length ...) 1= is because the greater-than symb
 
 #+begin_src emacs-lisp :results output :wrap example
   (let* ((file-name "./jacow-events.html")
+         (cal-dir "cal")
          my-html
          ;;(css-file  "./calendar.css")
          ;;(js-file   "./calendar.js")
          (years-list nil))
     (setq my-html '(html
                     (head
-                     (title "hello")
+                     (title "JACoW Calendar")
                      (meta :something "hi"))))
-    (nconc my-html '((body (h1 "test"))))
+    (nconc my-html '((body (h1 "JACoW Calendar"))))
     (require 'svg)
     (require 'xmlgen)
     (when (file-exists-p file-name)
       (delete-file file-name))
+    (make-directory cal-dir :parents)
     (let (events-alist)
       (dolist (series jacow-list events-alist)
         (table-to-html series (mapcar #'org-no-properties (org-table-get-remote-range series "@I$1..@>$2")) 'events-alist))
@@ -775,16 +777,16 @@ The reason I don’t use =if (> (length ...) 1= is because the greater-than symb
                     (svg-print svg)))
                 (setq this-year (substring (car my-event) 0 4))
                 (add-to-list 'years-list this-year)
+                (setq svg-file  (concat cal-dir "/" this-year ".svg"))
                 (nconc (nth 2 my-html) `((h2 ,this-year)))
-                (nconc (nth 2 my-html) `((object :data ,(concat this-year ".svg") :type "image/svg+xml" ,this-year)))
+                (nconc (nth 2 my-html) `((object :data ,svg-file :type "image/svg+xml" ,this-year)))
                 (setq event-color 1)
-                (setq svg-file  (concat this-year ".svg"))
                 (when (file-exists-p svg-file)
                   (delete-file svg-file))
                 ;; create svg
                 (setq svg (svg-create (funcall month-pos 4) (funcall month-pos 3) :stroke-width 2))
                 ;; add css
-                (svg-node svg 'link :type "text/css" :rel "stylesheet" :href "calendar.css" :xmlns "http://www.w3.org/1999/xhtml")
+                (svg-node svg 'link :type "text/css" :rel "stylesheet" :href "../css/calendar.css" :xmlns "http://www.w3.org/1999/xhtml")
                 ;; add js
                 (svg-node svg 'script :type "text/javascript" :href  "calendar.js")
                 ;;(print this-year)
@@ -907,11 +909,8 @@ The reason I don’t use =if (> (length ...) 1= is because the greater-than symb
             )
           (setq event-color (1+ event-color))
           (setq event-end (cadddr event-info))
-          ;; (print event-start)
-          ;; (print event-end)
           (let* (
                  (date-coord (funcall date-pos event-start))
-                 ;;(event-shape (funcall eventdate-to-shape event-start event-stop))
                  (m-x0 (funcall month-pos (car   date-coord)))
                  (m-y0 (funcall month-pos (cadr  date-coord)))
                  (d-x0 (* (caddr  date-coord) cell-size))
@@ -920,41 +919,7 @@ The reason I don’t use =if (> (length ...) 1= is because the greater-than symb
                  (end-days   (org-time-string-to-absolute event-end  ))
                  (start-week (org-days-to-iso-week start-days))
                  (end-week   (org-days-to-iso-week end-days  ))
-                 (draw-event-with-background
-                  (lambda (o-x o-y event-shape bg-color)
-                    (dolist (my-event event-shape)
-                      (svg-rectangle
-                       svg
-                       (+ o-x (* cell-size (car my-event))) (+ o-y (* cell-size (cadr my-event))) (* cell-size (caddr my-event)) day-font-size
-                       :fill (nth event-color jacow-color-list)
-                       :rx (/ day-font-size 4.0)
-                       :ry (/ day-font-size 4.0)
-                       )
-                      )
-                    )
-                  )
                  )
-            ;; (print date-coord)
-            ;; draw event frame
-            ;; --------
-            ;; (if (and (= start-week end-week) (string= (substring event-start 0 7) (substring event-end 0 7))) ;; same year, month, and week
-            ;;     (svg-rectangle
-            ;;      svg
-            ;;      (+ m-x0 d-x0) (+ m-y0 d-y0 (* event-priority day-font-size)) (* cell-size (- end-days start-days -1)) day-font-size
-            ;;      :fill (nth event-color jacow-color-list)
-            ;;      :rx (/ day-font-size 4.0)
-            ;;      :ry (/ day-font-size 4.0)
-            ;;      )
-            ;;   (if (string= (substring event-start 0 7) (substring event-end 0 7)) ;; same year, month
-            ;;       (svg-rectangle
-            ;;        svg
-            ;;        (+ m-x0 d-x0) (+ m-y0 d-y0 (* event-priority day-font-size)) cell-size day-font-size
-            ;;        :fill (nth event-color jacow-color-list)
-            ;;        :rx (/ day-font-size 4.0)
-            ;;        :ry (/ day-font-size 4.0)
-            ;;        )
-            ;;     )
-            ;;   )
             (dolist (my-event (eventdate-to-shape event-start event-end))
               (svg-rectangle
                svg
@@ -971,19 +936,12 @@ The reason I don’t use =if (> (length ...) 1= is because the greater-than symb
                       :y (+ m-y0 d-y0 (* event-priority day-font-size)  (/ day-font-size 2.0))
                       :class "event-text")
             )
-          ;; (princ (concat event-start "--" event-end ":\n"))
-          ;; (print (eventdate-to-shape event-start event-end))
-          ;; (prin1 event-priority)
-          ;; (princ ":\n")
-          ;; (prin1 event-info)
-          ;; (princ "\n")
           )
         ;;(print (reverse years-list))
         (with-temp-file svg-file
           (set-buffer-multibyte nil)
           (svg-print svg))
         )
-      ;;(append-to-file (cdr my-event) nil file-name)
       )
     (append-to-file
      (xmlgen my-html)
@@ -999,29 +957,3 @@ The reason I don’t use =if (> (length ...) 1= is because the greater-than symb
 
 
 
-
-
-
-[[file:calendar.org][Calendar]]
-
-#+begin_src emacs-lisp :results output
-  (dotimes (i 1)
-          (print "don't worry!"))
-#+end_src
-
-#+RESULTS:
-: 
-: "don't worry!"
-
-
-#+begin_src emacs-lisp :results output
-  (let (test-list)
-    (push [[[1 2 3 4 test-list )
-    (push [[[1 2 3 4]]] test-list )
-    (print test-list)
-    )
-#+end_src
-
-#+RESULTS:
-: 
-: ([[[1 2 3 4]]] [[[1 2 3 4]]])

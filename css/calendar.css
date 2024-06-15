@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css2?family=Zen+Dots);
+@import url(https://fonts.googleapis.com/css2?family=Barlow+Condensed);
+
+text { 
+    font-family:'Barlow Condensed';
+}
+
+.month-text {font-family:'Zen Dots'; font-weight:bold; text-anchor:middle; dominant-baseline:middle; stroke:black; stroke-width:0; fill:pink; }
+.day-text   {font-family:'Zen Dots'; font-weight:normal; text-anchor:end; dominant-baseline:hanging; stroke:black; stroke-width:0; fill:black;}
+.event-text {font-family:'Barlow Condensed'; font-weight:bold; text-anchor:start; dominant-baseline:middle;  stroke:white; stroke-width:0.1; fill:white;}
+
+.day-frame     {stroke:lightgrey; stroke-width:2; stroke-dasharray:10 5; fill:white; fill-opacity:0;  }
+.workday-frame {stroke:lightgrey;                                        fill:white; fill-opacity:0.1;}
+.weekend-frame {stroke:lightgrey; stroke-width:0; stroke-opacity:0;      fill:grey;  fill-opacity:0.1;}
+.month-frame   {stroke:orange;    stroke-width:3; stroke-opacity:0.3;    fill:white; fill-opacity:0;  }
+.month-box     {stroke:orange;    stroke-width:0; stroke-opacity:0;      fill:wheat; fill-opacity:0.1;}
